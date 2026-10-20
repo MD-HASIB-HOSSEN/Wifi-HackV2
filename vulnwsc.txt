@@ -1,0 +1,3936 @@
+ADSL RT2860
+ADSL Router EV-2006-07-27
+AIR3G WSC Wireless Access Point AIR3G WSC Device
+AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP
+Archer_A9 1.0
+Archer A2 5.0
+Archer A5 4.0
+Archer A6 1.0
+Archer A6 2.0
+Archer A6 3.0
+Archer A6 4.0
+Archer A6 5.0
+Archer A6 6.0
+Archer A7 1.0
+Archer A7 2.0
+Archer A7 3.0
+Archer A7 4.0
+Archer A7 5.0
+Archer A8 1.0
+Archer A8 2.0
+Archer A8 3.0
+Archer A9 1.0
+Archer A9 2.0
+Archer A9 3.0
+Archer A9 4.0
+Archer A9 5.0
+Archer A10 1.0
+Archer A10 2.0
+Archer A10 3.0
+Archer AX10 1.0
+Archer AX10 2.0
+Archer AX10 3.0
+Archer AX10 V4
+Archer AX12 1.0
+Archer AX12 2.0
+Archer AX12 V3
+Archer AX20 1.0
+Archer AX20 2.0
+Archer AX20 V3
+Archer AX21 1.0
+Archer AX21 2.0
+Archer AX21 V3
+Archer AX23 1.0
+Archer AX23 2.0
+Archer AX23 V3
+Archer AX50 1.0
+Archer AX50 2.0
+Archer AX50 V3
+Archer AX55 1.0
+Archer AX55 2.0
+Archer AX55 V3
+Archer AX73 1.0
+Archer AX73 2.0
+Archer AX73 V3
+Archer AX90 1.0
+Archer AX90 2.0
+Archer AX90 V3
+Archer AX11000 1.0
+Archer AX11000 2.0
+Archer AX11000 V3
+Archer AX1500 1.0
+Archer AX1500 2.0
+Archer AX1500 V3
+Archer AX1800 1.0
+Archer AX1800 2.0
+Archer AX1800 V3
+Archer AX3000 1.0
+Archer AX3000 2.0
+Archer AX3000 V3
+Archer AX5400 1.0
+Archer AX5400 2.0
+Archer AX6000 1.0
+Archer AX6000 2.0
+Archer AX6000 V3
+Archer AX6600 1.0
+Archer AX6600 2.0
+Archer AXE75 1.0
+Archer AXE75 2.0
+Archer AXE75 V3
+Archer AXE95 1.0
+Archer AXE95 2.0
+Archer AXE95 V3
+Archer AXE300 1.0
+Archer AXE300 2.0
+Archer AXE300 V3
+Archer AXE540 1.0
+Archer AXE540 2.0
+Archer AXE660 1.0
+Archer AXE660 2.0
+Archer AXE780 1.0
+Archer AXE780 2.0
+Archer AXE840 1.0
+Archer AXE840 2.0
+Archer AXE950 1.0
+Archer AXE950 2.0
+Archer BE230 1.0
+Archer BE3600 1.0
+Archer BE400 1.0
+Archer BE5000 1.0
+Archer BE550 1.0
+Archer BE6500 1.0
+Archer BE7000 1.0
+Archer BE8000 1.0
+Archer BE9300 1.0
+Archer BE9500 1.0
+Archer BE11000 1.0
+Archer C2 1.0
+Archer C2 2.0
+Archer C2 3.0
+Archer C2 4.0
+Archer C2 5.0
+Archer C5 1.0
+Archer C5 2.0
+Archer C5 3.0
+Archer C5 4.0
+Archer C5 5.0
+Archer C6 1.0
+Archer C6 2.0
+Archer C6 3.0
+Archer C6 4.0
+Archer C6 5.0
+Archer C6 6.0
+Archer C6 V4
+Archer C6U 1.0.0
+Archer C6U 2.0.0
+Archer C6U 3.0.0
+Archer C6U V4
+Archer C7 1.0
+Archer C7 2.0
+Archer C7 3.0
+Archer C7 4.0
+Archer C7 5.0
+Archer C7 V6
+Archer C9 1.0
+Archer C9 2.0
+Archer C9 3.0
+Archer C9 4.0
+Archer C9 5.0
+Archer C20 1.0
+Archer C20 2.0
+Archer C20 3.0
+Archer C20 4.0
+Archer C20 5.0
+Archer C20 6.0
+Archer C20 V7
+Archer C20i 1.0
+Archer C20i 2.0
+Archer C20i 3.0
+Archer C20i V4
+Archer C24 1.0
+Archer C50 1.0
+Archer C50 2.0
+Archer C50 3.0
+Archer C50 4.0
+Archer C50 5.0
+Archer C50 6.0
+Archer C50 V7
+Archer C54 1.0
+Archer C58 1.0
+Archer C58 2.0
+Archer C58 3.0
+Archer C58 V3
+Archer C59 1.0
+Archer C59 2.0
+Archer C59 3.0
+Archer C59 V3
+Archer C60 1.0
+Archer C60 2.0
+Archer C60 3.0
+Archer C60 V4
+Archer C64 1.0
+Archer C64 2.0
+Archer C64 3.0
+Archer C80 1.0
+Archer C80 2.0
+Archer C80 3.0
+Archer C80 V4
+Archer C1200 1.0
+Archer C1200 2.0
+Archer C2300 1.0
+Archer C2300 2.0
+Archer C2300 3.0
+Archer C2400 1.0
+Archer C2400 2.0
+Archer C2700 1.0
+Archer C2700 2.0
+Archer C3150 1.0
+Archer C3150 2.0
+Archer C3150 V2 1.0
+Archer C4000 1.0
+Archer C4000 2.0
+Archer C5400 1.0
+Archer C5400 2.0
+Archer C5400X 1.0
+Archer C5400X 2.0
+Archer GX90 1.0
+Archer GX90 2.0
+Archer MR200 1.0
+Archer MR200 2.0
+Archer MR200 3.0
+Archer MR200 4.0
+Archer MR200 5.0
+Archer MR400 1.0
+Archer MR400 2.0
+Archer MR400 3.0
+Archer MR500 1.0
+Archer MR500 2.0
+Archer MR550 1.0
+Archer MR550 2.0
+Archer MR600 1.0
+Archer MR600 2.0
+Archer MR600 3.0
+Archer MR6400 1.0
+Archer MR6400 2.0
+Archer VR300 1.20
+Archer VR400 1.0
+Archer VR400 2.0
+Archer VR400 3.0
+Archer VR600 1.0
+Archer VR600 2.0
+Archer VR600 3.0
+Archer VR900 1.0
+Archer VR900 2.0
+Archer VR900 3.0
+Archer VR2100 1.0
+Archer VR2100 2.0
+Archer VR2100 3.0
+Archer GE230 1.0
+Archer TX10 1.0
+Archer TX20 1.0
+Archer TX20E 1.0
+Archer TX50E 1.0
+Archer TX3000E 1.0
+Archer T2U 1.0
+Archer T2U Nano 1.0
+Archer T2U Plus 1.0
+Archer T3U 1.0
+Archer T3U Plus 1.0
+Archer T4U 1.0
+Archer T4U Plus 1.0
+Archer T4UH 1.0
+Archer T5E 1.0
+Archer T6E 1.0
+Archer T9E 1.0
+Asus RT-AC51 1.0
+Asus RT-AC51 V2 1.0
+Asus RT-AC51 V3 1.0
+Asus RT-AC51 V4
+Asus RT-AC52 1.0
+Asus RT-AC52 V2 1.0
+Asus RT-AC52 V3 1.0
+Asus RT-AC52 V4
+Asus RT-AC54U 1.0
+Asus RT-AC54U 2.0
+Asus RT-AC54U V3 1.0
+Asus RT-AC54U V4 1.0
+Asus RT-AC54U V5
+Asus RT-AC55UHP 1.0
+Asus RT-AC55UHP V2 1.0
+Asus RT-AC55UHP V3 1.0
+Asus RT-AC55UHP V4
+Asus RT-AC56R 1.0
+Asus RT-AC56R V2 1.0
+Asus RT-AC56R V3 1.0
+Asus RT-AC56R V4
+Asus RT-AC56S 1.0
+Asus RT-AC56S V2 1.0
+Asus RT-AC56S V3 1.0
+Asus RT-AC56S V4
+Asus RT-AC57U V2 1.0
+Asus RT-AC57U V3 1.0
+Asus RT-AC57U V4 1.0
+Asus RT-AC57U V5 1.0
+Asus RT-AC57U V6
+Asus RT-AC58U V2 1.0
+Asus RT-AC58U V3 1.0
+Asus RT-AC58U V4 1.0
+Asus RT-AC58U V5 1.0
+Asus RT-AC58U V6
+Asus RT-AC59U 1.0
+Asus RT-AC59U 2.0
+Asus RT-AC59U V2 1.0
+Asus RT-AC59U V3 1.0
+Asus RT-AC59U V4 1.0
+Asus RT-AC59U V5
+Asus RT-AC66U 1.0
+Asus RT-AC66U B1 1.0
+Asus RT-AC66U B1 2.0
+Asus RT-AC66U B2 1.0
+Asus RT-AC66U B3 1.0
+Asus RT-AC66U B4
+Asus RT-AC67P 1.0
+Asus RT-AC67P V2 1.0
+Asus RT-AC67P V3 1.0
+Asus RT-AC67P V4
+Asus RT-AC67U 1.0
+Asus RT-AC67U V2 1.0
+Asus RT-AC67U V3 1.0
+Asus RT-AC67U V4
+Asus RT-AC68U 1.0
+Asus RT-AC68U B1 1.0
+Asus RT-AC68U B2 1.0
+Asus RT-AC68U B3 1.0
+Asus RT-AC68U B4 1.0
+Asus RT-AC68U B5
+Asus RT-AC68U V3 1.0
+Asus RT-AC68U V4 1.0
+Asus RT-AC69U 1.0
+Asus RT-AC69U V2 1.0
+Asus RT-AC69U V3 1.0
+Asus RT-AC69U V4
+Asus RT-AC75U 1.0
+Asus RT-AC75U V2 1.0
+Asus RT-AC75U V3 1.0
+Asus RT-AC75U V4
+Asus RT-AC86U 2.0
+Asus RT-AC86U V3 1.0
+Asus RT-AC86U V4 1.0
+Asus RT-AC86U V5
+Asus RT-AC87R 1.0
+Asus RT-AC87U 1.0
+Asus RT-AC88U 2.0
+Asus RT-AC88U 3.0
+Asus RT-AC88U V4 1.0
+Asus RT-AC88U V5 1.0
+Asus RT-AC88U V6
+Asus RT-AC95U 1.0
+Asus RT-AC95U V2 1.0
+Asus RT-AC95U V3 1.0
+Asus RT-AC95U V4
+Asus RT-AC1200 V2 1.0
+Asus RT-AC1200 V3 1.0
+Asus RT-AC1200 V4 1.0
+Asus RT-AC1200 V5 1.0
+Asus RT-AC1200 V6
+Asus RT-AC1200G 1.0
+Asus RT-AC1200G+ V2 1.0
+Asus RT-AC1200G+ V3 1.0
+Asus RT-AC1200G+ V4 1.0
+Asus RT-AC1200G+ V5
+Asus RT-AC1200GU 1.0
+Asus RT-AC1200GU V2 1.0
+Asus RT-AC1200GU V3 1.0
+Asus RT-AC1200GU V4
+Asus RT-AC1200HP 1.0
+Asus RT-AC1200HP V2 1.0
+Asus RT-AC1200HP V3 1.0
+Asus RT-AC1200HP V4
+Asus RT-AC1300G+ 1.0
+Asus RT-AC1300G+ V2 1.0
+Asus RT-AC1300G+ V3 1.0
+Asus RT-AC1300G+ V4
+Asus RT-AC1300UHP 1.0
+Asus RT-AC1300UHP V2 1.0
+Asus RT-AC1300UHP V3 1.0
+Asus RT-AC1300UHP V4
+Asus RT-AC1500G+ 1.0
+Asus RT-AC1500G+ V2 1.0
+Asus RT-AC1500G+ V3 1.0
+Asus RT-AC1500G+ V4
+Asus RT-AC1500UHP 1.0
+Asus RT-AC1500UHP V2 1.0
+Asus RT-AC1500UHP V3 1.0
+Asus RT-AC1500UHP V4
+Asus RT-AC1600G 1.0
+Asus RT-AC1600G V2 1.0
+Asus RT-AC1600G V3 1.0
+Asus RT-AC1600G V4
+Asus RT-AC1700 1.0
+Asus RT-AC1700 V2 1.0
+Asus RT-AC1700 V3 1.0
+Asus RT-AC1700 V4
+Asus RT-AC1750 1.0
+Asus RT-AC1750 B1 1.0
+Asus RT-AC1750 B2 1.0
+Asus RT-AC1750 B3 1.0
+Asus RT-AC1750 B4 1.0
+Asus RT-AC1750 B5
+Asus RT-AC1900 U 1.0
+Asus RT-AC1900 U V2 1.0
+Asus RT-AC1900 U V3 1.0
+Asus RT-AC1900 U V4 1.0
+Asus RT-AC1900 U V5
+Asus RT-AC1900P V2 1.0
+Asus RT-AC1900P V3 1.0
+Asus RT-AC1900P V4 1.0
+Asus RT-AC1900P V5
+Asus RT-AC2200 1.0
+Asus RT-AC2200 V2 1.0
+Asus RT-AC2200 V3 1.0
+Asus RT-AC2200 V4
+Asus RT-AC2300 1.0
+Asus RT-AC2300 V2 1.0
+Asus RT-AC2300 V3 1.0
+Asus RT-AC2300 V4
+Asus RT-AC2600 1.0
+Asus RT-AC2600 V2 1.0
+Asus RT-AC2600 V3 1.0
+Asus RT-AC2600 V4
+Asus RT-AC2900 1.0
+Asus RT-AC2900 V2 1.0
+Asus RT-AC2900 V3 1.0
+Asus RT-AC2900 V4
+Asus RT-AC3100 V2 1.0
+Asus RT-AC3100 V3 1.0
+Asus RT-AC3100 V4 1.0
+Asus RT-AC3100 V5
+Asus RT-AC3200 1.0
+Asus RT-AC3200 V2 1.0
+Asus RT-AC3200 V3 1.0
+Asus RT-AC3200 V4 1.0
+Asus RT-AC3200 V5
+Asus RT-AC5300 1.0
+Asus RT-AC5300 V2 1.0
+Asus RT-AC5300 V3 1.0
+Asus RT-AC5300 V4 1.0
+Asus RT-AC5300 V5
+Asus RT-AX53U V2 1.0
+Asus RT-AX53U V3 1.0
+Asus RT-AX53U V4 1.0
+Asus RT-AX53U V5
+Asus RT-AX54HP 1.0
+Asus RT-AX54HP V2 1.0
+Asus RT-AX54HP V3 1.0
+Asus RT-AX54HP V4
+Asus RT-AX56U V2 1.0
+Asus RT-AX56U V3 1.0
+Asus RT-AX56U V4 1.0
+Asus RT-AX56U V5
+Asus RT-AX57 1.0
+Asus RT-AX57 2.0
+Asus RT-AX57 V2 1.0
+Asus RT-AX57 V3 1.0
+Asus RT-AX57 V4 1.0
+Asus RT-AX57 V5 1.0
+Asus RT-AX57 V6 1.0
+Asus RT-AX57 V7
+Asus RT-AX58U V2 1.0
+Asus RT-AX58U V3 1.0
+Asus RT-AX58U V4 1.0
+Asus RT-AX58U V5 1.0
+Asus RT-AX58U V6
+Asus RT-AX59U 1.0
+Asus RT-AX59U V2 1.0
+Asus RT-AX59U V3 1.0
+Asus RT-AX59U V4 1.0
+Asus RT-AX59U V5
+Asus RT-AX68U 2.0
+Asus RT-AX68U V3 1.0
+Asus RT-AX68U V4 1.0
+Asus RT-AX68U V5
+Asus RT-AX82U V2 1.0
+Asus RT-AX82U V3 1.0
+Asus RT-AX82U V4 1.0
+Asus RT-AX82U V5
+Asus RT-AX86S 1.0
+Asus RT-AX86S V2 1.0
+Asus RT-AX86S V3 1.0
+Asus RT-AX86S V4
+Asus RT-AX86U 1.0
+Asus RT-AX86U V2 1.0
+Asus RT-AX86U V3 1.0
+Asus RT-AX86U V4 1.0
+Asus RT-AX86U V5
+Asus RT-AX86U Pro 1.0
+Asus RT-AX86U Pro V2 1.0
+Asus RT-AX86U Pro V3 1.0
+Asus RT-AX86U Pro V4
+Asus RT-AX88U V2 1.0
+Asus RT-AX88U V3 1.0
+Asus RT-AX88U V4 1.0
+Asus RT-AX88U V5
+Asus RT-AX88U Pro 1.0
+Asus RT-AX88U Pro V2 1.0
+Asus RT-AX88U Pro V3 1.0
+Asus RT-AX88U Pro V4
+Asus RT-AX89X 1.0
+Asus RT-AX89X 2.0
+Asus RT-AX89X V3 1.0
+Asus RT-AX89X V4 1.0
+Asus RT-AX89X V5
+Asus RT-AX92U 2.0
+Asus RT-AX92U V3 1.0
+Asus RT-AX92U V4 1.0
+Asus RT-AX92U V5
+Asus RT-AX95U 1.0
+Asus RT-AX95U V2 1.0
+Asus RT-AX95U V3 1.0
+Asus RT-AX95U V4
+Asus RT-AX11000 V2 1.0
+Asus RT-AX11000 V3 1.0
+Asus RT-AX11000 V4 1.0
+Asus RT-AX11000 V5
+Asus RT-AX1800S V2 1.0
+Asus RT-AX1800S V3 1.0
+Asus RT-AX1800S V4 1.0
+Asus RT-AX1800S V5
+Asus RT-AX1800U 1.0
+Asus RT-AX1800U V2 1.0
+Asus RT-AX1800U V3 1.0
+Asus RT-AX1800U V4
+Asus RT-AX3000 V2 1.0
+Asus RT-AX3000 V3 1.0
+Asus RT-AX3000 V4 1.0
+Asus RT-AX3000 V5
+Asus RT-AX5400 1.0
+Asus RT-AX5400 V2 1.0
+Asus RT-AX5400 V3 1.0
+Asus RT-AX5400 V4
+Asus RT-AXE7800 1.0
+Asus RT-AXE7800 2.0
+Asus RT-AXE7800 V3 1.0
+Asus RT-AXE7800 V4 1.0
+Asus RT-AXE7800 V5
+Asus RT-BE58U 1.0
+Asus RT-BE58U V2 1.0
+Asus RT-BE58U V3 1.0
+Asus RT-BE58U V4
+Asus RT-BE86U 1.0
+Asus RT-BE86U V2 1.0
+Asus RT-BE86U V3 1.0
+Asus RT-BE86U V4
+Asus RT-BE88U 1.0
+Asus RT-BE88U V2 1.0
+Asus RT-BE88U V3 1.0
+Asus RT-BE88U V4
+Asus RT-BE96U 1.0
+Asus RT-BE96U 2.0
+Asus RT-BE96U V3 1.0
+Asus RT-BE96U V4 1.0
+Asus RT-BE96U V5
+Asus TUF-AX3000 1.0
+Asus TUF-AX3000 V2 1.0
+Asus TUF-AX3000 V3 1.0
+Asus TUF-AX3000 V4 1.0
+Asus TUF-AX3000 V5
+Asus TUF-AX4200 1.0
+Asus TUF-AX4200 V2 1.0
+Asus TUF-AX4200 V3 1.0
+Asus TUF-AX4200 V4
+Asus TUF-AX5400 1.0
+Asus TUF-AX5400 V2 1.0
+Asus TUF-AX5400 V3 1.0
+Asus TUF-AX5400 V4
+Asus TUF-AX6000 1.0
+Asus TUF-AX6000 V2 1.0
+Asus TUF-AX6000 V3 1.0
+Asus TUF-AX6000 V4
+Asus TUF-BE3600 1.0
+Asus TUF-BE3600 V2 1.0
+Asus TUF-BE3600 V3 1.0
+Asus TUF-BE3600 V4
+Asus TUF-BE6500 1.0
+Asus TUF-BE6500 V2 1.0
+Asus TUF-BE6500 V3 1.0
+Asus TUF-BE6500 V4
+Asus ROG Rapture GT-AX11000 1.0
+Asus ROG Rapture GT-AX11000 V2 1.0
+Asus ROG Rapture GT-AX11000 V3 1.0
+Asus ROG Rapture GT-AX11000 V4
+Asus ROG Rapture GT-AX6000 1.0
+Asus ROG Rapture GT-AX6000 V2 1.0
+Asus ROG Rapture GT-AX6000 V3 1.0
+Asus ROG Rapture GT-AX6000 V4
+Asus ROG Rapture GT-AXE11000 1.0
+Asus ROG Rapture GT-AXE11000 V2 1.0
+Asus ROG Rapture GT-AXE11000 V3 1.0
+Asus ROG Rapture GT-AXE11000 V4
+Asus ROG Rapture GT-AXE16000 1.0
+Asus ROG Rapture GT-AXE16000 V2 1.0
+Asus ROG Rapture GT-AXE16000 V3 1.0
+Asus ROG Rapture GT-AXE16000 V4
+Asus ROG Rapture GT-BE98 1.0
+Asus ROG Rapture GT-BE98 V2 1.0
+Asus ROG Rapture GT-BE98 V3 1.0
+Asus ROG Rapture GT-BE98 V4
+Asus ROG Rapture GT6 1.0
+Asus ROG Rapture GT6 V2 1.0
+Asus ROG Rapture GT6 V3 1.0
+Asus ROG Rapture GT6 V4
+Asus ZenWiFi AX 1.0
+Asus ZenWiFi AX 2.0
+Asus ZenWiFi AX V3 1.0
+Asus ZenWiFi AX V4 1.0
+Asus ZenWiFi AX V5
+Asus ZenWiFi AX Mini 1.0
+Asus ZenWiFi AX Mini V2 1.0
+Asus ZenWiFi AX Mini V3 1.0
+Asus ZenWiFi AX Mini V4
+Asus ZenWiFi AX Hybrid 1.0
+Asus ZenWiFi AX Hybrid V2 1.0
+Asus ZenWiFi AX Hybrid V3 1.0
+Asus ZenWiFi AX Hybrid V4
+Asus ZenWiFi AX XT8 1.0
+Asus ZenWiFi AX XT8 2.0
+Asus ZenWiFi AX XT8 V2 1.0
+Asus ZenWiFi AX XT8 V3 1.0
+Asus ZenWiFi AX XT8 V4 1.0
+Asus ZenWiFi AX XT8 V5
+Asus ZenWiFi ET8 1.0
+Asus ZenWiFi ET8 2.0
+Asus ZenWiFi ET8 V3 1.0
+Asus ZenWiFi ET8 V4 1.0
+Asus ZenWiFi ET8 V5
+Asus ZenWiFi XD4 1.0
+Asus ZenWiFi XD4 2.0
+Asus ZenWiFi XD4 V3 1.0
+Asus ZenWiFi XD4 V4 1.0
+Asus ZenWiFi XD4 V5
+Asus ZenWiFi XD4 Plus 1.0
+Asus ZenWiFi XD4 Plus V2 1.0
+Asus ZenWiFi XD4 Plus V3 1.0
+Asus ZenWiFi XD4 Plus V4
+Asus ZenWiFi XD4S 1.0
+Asus ZenWiFi XD4S V2 1.0
+Asus ZenWiFi XD4S V3 1.0
+Asus ZenWiFi XD4S V4
+Asus ZenWiFi XD5 1.0
+Asus ZenWiFi XD5 V2 1.0
+Asus ZenWiFi XD5 V3 1.0
+Asus ZenWiFi XD5 V4
+Asus ZenWiFi XD6 1.0
+Asus ZenWiFi XD6 2.0
+Asus ZenWiFi XD6 V3 1.0
+Asus ZenWiFi XD6 V4 1.0
+Asus ZenWiFi XD6 V5
+Asus ZenWiFi XD6S 1.0
+Asus ZenWiFi XD6S V2 1.0
+Asus ZenWiFi XD6S V3 1.0
+Asus ZenWiFi XD6S V4
+Asus ZenWiFi XP4 1.0
+Asus ZenWiFi XP4 2.0
+Asus ZenWiFi XP4 V3 1.0
+Asus ZenWiFi XP4 V4 1.0
+Asus ZenWiFi XP4 V5
+Asus ZenWiFi Pro ET12 1.0
+Asus ZenWiFi Pro ET12 V2 1.0
+Asus ZenWiFi Pro ET12 V3 1.0
+Asus ZenWiFi Pro ET12 V4
+Asus ZenWiFi Pro XT12 1.0
+Asus ZenWiFi Pro XT12 2.0
+Asus ZenWiFi Pro XT12 V3 1.0
+Asus ZenWiFi Pro XT12 V4 1.0
+Asus ZenWiFi Pro XT12 V5
+Asus ZenWiFi BQ16 1.0
+Asus ZenWiFi BQ16 V2 1.0
+Asus ZenWiFi BQ16 V3 1.0
+Asus ZenWiFi BQ16 V4
+Asus ZenWiFi BQ16 Pro 1.0
+Asus ZenWiFi BQ16 Pro V2 1.0
+Asus ZenWiFi BQ16 Pro V3 1.0
+Asus ZenWiFi BQ16 Pro V4
+Asus RP-AC51 1.0
+Asus RP-AC52 1.0
+Asus RP-AC53 1.0
+Asus RP-AC55 1.0
+Asus RP-AC56 1.0
+Asus RP-AC66 1.0
+Asus RP-AC68U 1.0
+Asus RP-AX56 1.0
+Asus RP-AX58 1.0
+Asus RP-N12 1.0
+Asus RP-N14 1.0
+Asus RP-N53 1.0
+Asus EA-AC87 1.0
+Asus EA-N66 1.0
+Asus PL-AC56 1.0
+B-LINK 123456
+Belkin AP EV-2012-09-01
+Belkin F5D7230 1.0
+Belkin F5D7231 1.0
+Belkin F5D7234-4
+Belkin F5D8233 1.0
+Belkin F5D8233-4
+Belkin F5D8236 1.0
+Belkin F7D1301 1.0
+Belkin F7D2301 1.0
+Belkin F7D3301 1.0
+Belkin F7D4301 1.0
+Belkin F9K1002 1.0
+Belkin F9K1102 1.0
+Belkin F9K1104v1
+Belkin N150 1.0
+Belkin N300 1.0
+Belkin N450 1.0
+Belkin N600 1.0
+Belkin N750 1.0
+Belkin N900 1.0
+Buffalo WSR-1800AX4
+Buffalo WSR-1800AX4S
+Buffalo WSR-1800AX4B
+Buffalo WSR-1800AX4KH
+DAP-1360 DAP-1360
+DAP-1522 1.0
+DAP-1533 1.0
+DAP-1610 1.0
+DAP-1620 1.0
+DAP-1630 1.0
+DAP-1650 1.0
+DAP-1665 1.0
+DAP-1720 1.0
+DAP-1750 1.0
+DAP-1760 1.0
+DAP-1860 1.0
+DAP-1950 1.0
+DAP-1955 1.0
+DAP-2020 1.0
+DAP-2310 1.0
+DAP-2330 1.0
+DAP-2360 1.0
+DAP-2553 1.0
+DAP-2590 1.0
+DAP-2610 1.0
+DAP-2620 1.0
+DAP-2660 1.0
+DAP-2680 1.0
+DAP-2690 1.0
+DAP-2695 1.0
+DAP-3662 1.0
+DAP-3666 1.0
+DIR-819 v1.0.1
+DIR-842 DIR-842
+DWR-921C3 WBR-0001
+D-Link N Router GO-RT-N150
+D-Link Router DIR-605L
+D-Link Router DIR-615H1
+D-Link Router DIR-655
+D-Link Router DIR-809
+D-Link Router GO-RT-N150
+D-Link DIR-300 1.0
+D-Link DIR-300 2.0
+D-Link DIR-300 3.0
+D-Link DIR-300 4.0
+D-Link DIR-300 5.0
+D-Link DIR-600 1.0
+D-Link DIR-600 2.0
+D-Link DIR-600 3.0
+D-Link DIR-600 4.0
+D-Link DIR-600 5.0
+D-Link DIR-601 1.0
+D-Link DIR-601 2.0
+D-Link DIR-601 3.0
+D-Link DIR-605 1.0
+D-Link DIR-605 2.0
+D-Link DIR-605 3.0
+D-Link DIR-605L 1.0
+D-Link DIR-605L 2.0
+D-Link DIR-605L 3.0
+D-Link DIR-610 1.0
+D-Link DIR-610 2.0
+D-Link DIR-610 3.0
+D-Link DIR-615 1.0
+D-Link DIR-615 2.0
+D-Link DIR-615 3.0
+D-Link DIR-615 4.0
+D-Link DIR-615 5.0
+D-Link DIR-615 6.0
+D-Link DIR-615 7.0
+D-Link DIR-615 8.0
+D-Link DIR-615 9.0
+D-Link DIR-615 10.0
+D-Link DIR-615 11.0
+D-Link DIR-615 12.0
+D-Link DIR-615 13.0
+D-Link DIR-615 14.0
+D-Link DIR-615 15.0
+D-Link DIR-615 16.0
+D-Link DIR-615 17.0
+D-Link DIR-615 18.0
+D-Link DIR-615 19.0
+D-Link DIR-615 20.0
+D-Link DIR-615 V21
+D-Link DIR-615 V22
+D-Link DIR-615 V23
+D-Link DIR-615 V24
+D-Link DIR-615 V25
+D-Link DIR-615 V26
+D-Link DIR-615 V27
+D-Link DIR-615 V28
+D-Link DIR-615 V29
+D-Link DIR-615 V30
+D-Link DIR-615H1 1.0
+D-Link DIR-615H1 2.0
+D-Link DIR-615H1 3.0
+D-Link DIR-619 1.0
+D-Link DIR-619 2.0
+D-Link DIR-619 3.0
+D-Link DIR-625 1.0
+D-Link DIR-625 2.0
+D-Link DIR-625 3.0
+D-Link DIR-628 1.0
+D-Link DIR-628 2.0
+D-Link DIR-628 3.0
+D-Link DIR-632 1.0
+D-Link DIR-632 2.0
+D-Link DIR-632 3.0
+D-Link DIR-635 1.0
+D-Link DIR-635 2.0
+D-Link DIR-635 3.0
+D-Link DIR-635 B3
+D-Link DIR-636L 1.0
+D-Link DIR-636L 2.0
+D-Link DIR-636L 3.0
+D-Link DIR-645 1.0
+D-Link DIR-645 2.0
+D-Link DIR-645 3.0
+D-Link DIR-650 1.0
+D-Link DIR-650 2.0
+D-Link DIR-650 3.0
+D-Link DIR-650IN 1.0
+D-Link DIR-655 1.0
+D-Link DIR-655 2.0
+D-Link DIR-655 3.0
+D-Link DIR-655 4.0
+D-Link DIR-655 5.0
+D-Link DIR-657 1.0
+D-Link DIR-657 2.0
+D-Link DIR-657 3.0
+D-Link DIR-660 1.0
+D-Link DIR-660 2.0
+D-Link DIR-660 3.0
+D-Link DIR-665 1.0
+D-Link DIR-665 2.0
+D-Link DIR-665 3.0
+D-Link DIR-685 1.0
+D-Link DIR-685 2.0
+D-Link DIR-685 3.0
+D-Link DIR-806 1.0
+D-Link DIR-806 2.0
+D-Link DIR-806A 1.0
+D-Link DIR-806A 2.0
+D-Link DIR-815 1.0
+D-Link DIR-815 2.0
+D-Link DIR-815 3.0
+D-Link DIR-816 1.0
+D-Link DIR-816 2.0
+D-Link DIR-816 3.0
+D-Link DIR-816 V4
+D-Link DIR-816 V5
+D-Link DIR-816 V6
+D-Link DIR-816 V7
+D-Link DIR-816A 1.0
+D-Link DIR-816A 2.0
+D-Link DIR-816L 1.0
+D-Link DIR-816L 2.0
+D-Link DIR-816L 3.0
+D-Link DIR-816L V4
+D-Link DIR-816L V5
+D-Link DIR-817 1.0
+D-Link DIR-817 2.0
+D-Link DIR-817 3.0
+D-Link DIR-818 1.0
+D-Link DIR-818 2.0
+D-Link DIR-818 3.0
+D-Link DIR-819 1.0
+D-Link DIR-819 2.0
+D-Link DIR-819 3.0
+D-Link DIR-819 V4
+D-Link DIR-819 V5
+D-Link DIR-820 1.0
+D-Link DIR-820 2.0
+D-Link DIR-820 3.0
+D-Link DIR-820L 1.0
+D-Link DIR-820L 2.0
+D-Link DIR-822 1.0
+D-Link DIR-822 2.0
+D-Link DIR-822 3.0
+D-Link DIR-822 B1
+D-Link DIR-822 202KRb06
+D-Link DIR-822 V4
+D-Link DIR-822 V5
+D-Link DIR-823 1.0
+D-Link DIR-823 2.0
+D-Link DIR-823 3.0
+D-Link DIR-825 1.0
+D-Link DIR-825 2.0
+D-Link DIR-825 3.0
+D-Link DIR-825 4.0
+D-Link DIR-825 5.0
+D-Link DIR-825 V6
+D-Link DIR-825 V7
+D-Link DIR-825 V8
+D-Link DIR-825 V9
+D-Link DIR-825 V10
+D-Link DIR-826 1.0
+D-Link DIR-826 2.0
+D-Link DIR-826 3.0
+D-Link DIR-827 1.0
+D-Link DIR-827 2.0
+D-Link DIR-827 3.0
+D-Link DIR-828 1.0
+D-Link DIR-828 2.0
+D-Link DIR-828 3.0
+D-Link DIR-829 1.0
+D-Link DIR-829 2.0
+D-Link DIR-829 3.0
+D-Link DIR-830 1.0
+D-Link DIR-830 2.0
+D-Link DIR-830 3.0
+D-Link DIR-831 1.0
+D-Link DIR-831 2.0
+D-Link DIR-831 3.0
+D-Link DIR-832 1.0
+D-Link DIR-832 2.0
+D-Link DIR-832 3.0
+D-Link DIR-835 1.0
+D-Link DIR-835 2.0
+D-Link DIR-835 3.0
+D-Link DIR-836 1.0
+D-Link DIR-836 2.0
+D-Link DIR-836 3.0
+D-Link DIR-840 1.0
+D-Link DIR-840 2.0
+D-Link DIR-840 3.0
+D-Link DIR-841 1.0
+D-Link DIR-841 2.0
+D-Link DIR-841 3.0
+D-Link DIR-841 4.0
+D-Link DIR-841 V5
+D-Link DIR-841 V6
+D-Link DIR-842 1.0
+D-Link DIR-842 2.0
+D-Link DIR-842 3.0
+D-Link DIR-842 4.0
+D-Link DIR-842 5.0
+D-Link DIR-842 V6
+D-Link DIR-842 V7
+D-Link DIR-842 V8
+D-Link DIR-845 1.0
+D-Link DIR-845 2.0
+D-Link DIR-845 3.0
+D-Link DIR-850 1.0
+D-Link DIR-850 2.0
+D-Link DIR-850 3.0
+D-Link DIR-853 1.0
+D-Link DIR-853 2.0
+D-Link DIR-853 3.0
+D-Link DIR-853 4.0
+D-Link DIR-853 V5
+D-Link DIR-853 V6
+D-Link DIR-853 V7
+D-Link DIR-855 1.0
+D-Link DIR-855 2.0
+D-Link DIR-855 3.0
+D-Link DIR-857 1.0
+D-Link DIR-857 2.0
+D-Link DIR-857 3.0
+D-Link DIR-859 1.0
+D-Link DIR-859 2.0
+D-Link DIR-859 3.0
+D-Link DIR-860 1.0
+D-Link DIR-860 2.0
+D-Link DIR-860 3.0
+D-Link DIR-862 1.0
+D-Link DIR-862 2.0
+D-Link DIR-862 3.0
+D-Link DIR-865 1.0
+D-Link DIR-865 2.0
+D-Link DIR-865 3.0
+D-Link DIR-866 1.0
+D-Link DIR-866 2.0
+D-Link DIR-866 3.0
+D-Link DIR-867 1.0
+D-Link DIR-867 2.0
+D-Link DIR-867 3.0
+D-Link DIR-867 4.0
+D-Link DIR-867 V5
+D-Link DIR-867 V6
+D-Link DIR-867 V7
+D-Link DIR-868 1.0
+D-Link DIR-868 2.0
+D-Link DIR-868 3.0
+D-Link DIR-869 1.0
+D-Link DIR-869 2.0
+D-Link DIR-869 3.0
+D-Link DIR-878 1.0
+D-Link DIR-878 2.0
+D-Link DIR-878 3.0
+D-Link DIR-878 V4
+D-Link DIR-878 V5
+D-Link DIR-878 V6
+D-Link DIR-879 1.0
+D-Link DIR-879 2.0
+D-Link DIR-880 1.0
+D-Link DIR-880 2.0
+D-Link DIR-880 3.0
+D-Link DIR-882 1.0
+D-Link DIR-882 2.0
+D-Link DIR-882 3.0
+D-Link DIR-882 4.0
+D-Link DIR-882 5.0
+D-Link DIR-882 6.0
+D-Link DIR-882 V7
+D-Link DIR-882 V8
+D-Link DIR-882 V9
+D-Link DIR-885 1.0
+D-Link DIR-885 2.0
+D-Link DIR-885 3.0
+D-Link DIR-890 1.0
+D-Link DIR-890 2.0
+D-Link DIR-890 3.0
+D-Link DIR-890L 1.0
+D-Link DIR-890L 2.0
+D-Link DIR-890L V3
+D-Link DIR-895 1.0
+D-Link DIR-895 2.0
+D-Link DIR-895 3.0
+D-Link DIR-895L 1.0
+D-Link DIR-895L 2.0
+D-Link DIR-895L V3
+D-Link DIR-1260 1.0
+D-Link DIR-1260 2.0
+D-Link DIR-1260 V3
+D-Link DIR-1290 1.0
+D-Link DIR-1290 V2
+D-Link DIR-1360 1.0
+D-Link DIR-1360 2.0
+D-Link DIR-1360 3.0
+D-Link DIR-1360 4.0
+D-Link DIR-1360 V5
+D-Link DIR-1360 V6
+D-Link DIR-1360 V7
+D-Link DIR-1360 V8
+D-Link DIR-1360 V9
+D-Link DIR-1750 1.0
+D-Link DIR-1750 2.0
+D-Link DIR-1750 V3
+D-Link DIR-1750 V4
+D-Link DIR-1950 1.0
+D-Link DIR-1950 2.0
+D-Link DIR-1950 V3
+D-Link DIR-1950 V4
+D-Link DIR-1960 1.0
+D-Link DIR-1960 2.0
+D-Link DIR-1960 V3
+D-Link DIR-1960 V4
+D-Link DIR-1960 V5
+D-Link DIR-2150 1.0
+D-Link DIR-2150 2.0
+D-Link DIR-2150 3.0
+D-Link DIR-2150 4.0
+D-Link DIR-2150 5.0
+D-Link DIR-2150 V6
+D-Link DIR-2150 V7
+D-Link DIR-2150 V8
+D-Link DIR-2640 1.0
+D-Link DIR-2640 2.0
+D-Link DIR-2640 3.0
+D-Link DIR-2640 V4
+D-Link DIR-2640 V5
+D-Link DIR-2660 1.0
+D-Link DIR-2660 2.0
+D-Link DIR-2660 3.0
+D-Link DIR-2660 4.0
+D-Link DIR-2660 V5
+D-Link DIR-2660 V6
+D-Link DIR-2660 V7
+D-Link DIR-2680 1.0
+D-Link DIR-2680 2.0
+D-Link DIR-2680 V3
+D-Link DIR-3040 1.0
+D-Link DIR-3040 2.0
+D-Link DIR-3040 3.0
+D-Link DIR-3040 V4
+D-Link DIR-3040 V5
+D-Link DIR-3040 V6
+D-Link DIR-3060 1.0
+D-Link DIR-3060 2.0
+D-Link DIR-3060 3.0
+D-Link DIR-3060 4.0
+D-Link DIR-3060 V5
+D-Link DIR-3060 V6
+D-Link DIR-3060 V7
+D-Link DIR-X1550 1.0
+D-Link DIR-X1550 2.0
+D-Link DIR-X1550 V3
+D-Link DIR-X1560 1.0
+D-Link DIR-X1560 2.0
+D-Link DIR-X1560 3.0
+D-Link DIR-X1560 4.0
+D-Link DIR-X1560 V5
+D-Link DIR-X1560 V6
+D-Link DIR-X1850 1.0
+D-Link DIR-X1850 2.0
+D-Link DIR-X1850 V3
+D-Link DIR-X1860 1.0
+D-Link DIR-X1860 2.0
+D-Link DIR-X1860 3.0
+D-Link DIR-X1860 4.0
+D-Link DIR-X1860 V5
+D-Link DIR-X1860 V6
+D-Link DIR-X1870 1.0
+D-Link DIR-X1870 2.0
+D-Link DIR-X1870 3.0
+D-Link DIR-X1870 V4
+D-Link DIR-X1870 V5
+D-Link DIR-X3260 1.0
+D-Link DIR-X3260 2.0
+D-Link DIR-X3260 V3
+D-Link DIR-X4860 1.0
+D-Link DIR-X4860 2.0
+D-Link DIR-X4860 3.0
+D-Link DIR-X4860 V4
+D-Link DIR-X4860 V5
+D-Link DIR-X5460 1.0
+D-Link DIR-X5460 2.0
+D-Link DIR-X5460 3.0
+D-Link DIR-X5460 V4
+D-Link DIR-X5460 V5
+D-Link DIR-X6060 1.0
+D-Link DIR-X6060 2.0
+D-Link DIR-X6060 3.0
+D-Link DIR-X6060 V4
+D-Link DIR-X6060 V5
+D-Link DIR-X6080 1.0
+D-Link DIR-X6080 2.0
+D-Link DIR-X6080 3.0
+D-Link DIR-X6080 V4
+D-Link DIR-X6080 V5
+D-Link DIR-X6100 1.0
+D-Link DIR-X6100 2.0
+D-Link DIR-X6100 3.0
+D-Link DIR-X6100 V4
+D-Link DIR-X6100 V5
+D-Link DIR-LX1560 1.0
+D-Link DIR-LX1560 2.0
+D-Link DIR-LX1560 V3
+D-Link DIR-LX1850 1.0
+D-Link DIR-LX1850 2.0
+D-Link DIR-LX1850 V3
+D-Link DIR-LX1860 1.0
+D-Link DIR-LX1860 2.0
+D-Link DIR-LX1860 V3
+D-Link DIR-LX1870 1.0
+D-Link DIR-LX1870 2.0
+D-Link DIR-LX1870 3.0
+D-Link DIR-LX1870 4.0
+D-Link DIR-LX1870 V5
+D-Link COVR-1100 1.0
+D-Link COVR-1100 2.0
+D-Link COVR-1100 3.0
+D-Link COVR-1100 V4
+D-Link COVR-1100 V5
+D-Link COVR-1102 1.0
+D-Link COVR-1102 2.0
+D-Link COVR-1102 V3
+D-Link COVR-1103 1.0
+D-Link COVR-1103 2.0
+D-Link COVR-1103 V3
+D-Link COVR-1200 1.0
+D-Link COVR-1200 2.0
+D-Link COVR-1200 3.0
+D-Link COVR-1200 V4
+D-Link COVR-1200 V5
+D-Link COVR-1202 1.0
+D-Link COVR-1202 2.0
+D-Link COVR-1202 V3
+D-Link COVR-1203 1.0
+D-Link COVR-1203 2.0
+D-Link COVR-1203 V3
+D-Link COVR-1300 1.0
+D-Link COVR-1300 2.0
+D-Link COVR-1300 V3
+D-Link COVR-1302 1.0
+D-Link COVR-1302 2.0
+D-Link COVR-1302 V3
+D-Link COVR-1303 1.0
+D-Link COVR-1303 2.0
+D-Link COVR-1303 V3
+D-Link COVR-1400 1.0
+D-Link COVR-1400 2.0
+D-Link COVR-1400 V3
+D-Link COVR-1402 1.0
+D-Link COVR-1402 2.0
+D-Link COVR-1402 V3
+D-Link COVR-1403 1.0
+D-Link COVR-1403 2.0
+D-Link COVR-1403 V3
+D-Link COVR-2200 1.0
+D-Link COVR-2200 2.0
+D-Link COVR-2200 V3
+D-Link COVR-2200 V4
+D-Link COVR-2202 1.0
+D-Link COVR-2202 2.0
+D-Link COVR-2202 V3
+D-Link COVR-2600 1.0
+D-Link COVR-2600 2.0
+D-Link COVR-2600 V3
+D-Link COVR-2600 V4
+D-Link COVR-2602 1.0
+D-Link COVR-2602 2.0
+D-Link COVR-2602 V3
+D-Link COVR-3902 1.0
+D-Link COVR-3902 2.0
+D-Link COVR-3902 V3
+D-Link COVR-C1200 1.0
+D-Link COVR-C1200 2.0
+D-Link COVR-C1200 V3
+D-Link COVR-C1202 1.0
+D-Link COVR-C1202 2.0
+D-Link COVR-C1202 V3
+D-Link COVR-C1203 1.0
+D-Link COVR-C1203 2.0
+D-Link COVR-C1203 V3
+D-Link COVR-X1860 1.0
+D-Link COVR-X1860 2.0
+D-Link COVR-X1860 3.0
+D-Link COVR-X1860 V4
+D-Link COVR-X1860 V5
+D-Link COVR-X1862 1.0
+D-Link COVR-X1862 2.0
+D-Link COVR-X1862 V3
+D-Link COVR-X1863 1.0
+D-Link COVR-X1863 2.0
+D-Link COVR-X1863 V3
+D-Link COVR-X1870 1.0
+D-Link COVR-X1870 2.0
+D-Link COVR-X1870 3.0
+D-Link COVR-X1870 V4
+D-Link COVR-X1870 V5
+D-Link COVR-X1872 1.0
+D-Link COVR-X1872 2.0
+D-Link COVR-X1872 V3
+D-Link COVR-X1873 1.0
+D-Link COVR-X1873 2.0
+D-Link COVR-X1873 V3
+D-Link DWR-932B
+D-Link R03 1.0
+D-Link R03 V2
+D-Link R04 1.0
+D-Link R04 V2
+D-Link R12 1.0
+D-Link R12 2.0
+D-Link R12 3.0
+D-Link R12 4.0
+D-Link R12 V5
+D-Link R12 V6
+D-Link R15 1.0
+D-Link R15 2.0
+D-Link R15 3.0
+D-Link R15 4.0
+D-Link R15 5.0
+D-Link R15 6.0
+D-Link R15 V7
+D-Link R15 V8
+D-Link R18 1.0
+D-Link R18 2.0
+D-Link R18 3.0
+D-Link R18 4.0
+D-Link R18 V5
+D-Link R18 V6
+D-Link R32 1.0
+D-Link R32 2.0
+D-Link R32 3.0
+D-Link R32 4.0
+D-Link R32 V5
+D-Link R32 V6
+D-Link M15 1.0
+D-Link M15 2.0
+D-Link M15 3.0
+D-Link M15 4.0
+D-Link M15 V5
+D-Link M15 V6
+D-Link M15 V7
+D-Link M30 1.0
+D-Link M30 2.0
+D-Link M30 3.0
+D-Link M30 4.0
+D-Link M30 V5
+D-Link M30 V6
+D-Link M30 V7
+D-Link M32 1.0
+D-Link M32 2.0
+D-Link M32 V3
+D-Link M32 V4
+D-Link M32 V5
+D-Link M60 1.0
+D-Link M60 2.0
+D-Link M60 V3
+D-Link M60 V4
+D-Link M60 V5
+D-Link E15 1.0
+D-Link E15 2.0
+D-Link E15 V3
+D-Link E15 V4
+D-Link E15 V5
+D-Link E30 1.0
+D-Link E30 2.0
+D-Link E30 V3
+D-Link E30 V4
+D-Link E30 V5
+D-Link G415 1.0
+D-Link G415 2.0
+D-Link G415 3.0
+D-Link G415 V4
+D-Link G415 V5
+D-Link G415 V6
+D-Link G416 1.0
+D-Link G416 2.0
+D-Link G416 V3
+D-Link G416 V4
+D-Link G416 V5
+D-Link G530 1.0
+D-Link G530 2.0
+D-Link G530 3.0
+D-Link G530 V4
+D-Link G530 V5
+D-Link G530 V6
+D-Link G572 1.0
+D-Link G572 2.0
+D-Link G572 V3
+D-Link G572 V4
+D-Link G572 V5
+D-Link G573 1.0
+D-Link G573 2.0
+D-Link G573 V3
+D-Link G573 V4
+D-Link G573 V5
+D-Link G574 1.0
+D-Link G574 2.0
+D-Link G574 V3
+D-Link G574 V4
+D-Link G574 V5
+D-Link G575 1.0
+D-Link G575 2.0
+D-Link G575 V3
+D-Link G575 V4
+D-Link G575 V5
+D-Link G576 1.0
+D-Link G576 2.0
+D-Link G576 V3
+D-Link G576 V4
+D-Link G576 V5
+D-Link AX1500 1.0
+D-Link AX1500 2.0
+D-Link AX1500 3.0
+D-Link AX1500 4.0
+D-Link AX1500 V5
+D-Link AX1500 V6
+D-Link AX1800 1.0
+D-Link AX1800 2.0
+D-Link AX1800 3.0
+D-Link AX1800 4.0
+D-Link AX1800 V5
+D-Link AX1800 V6
+D-Link AX3000 1.0
+D-Link AX3000 2.0
+D-Link AX3000 3.0
+D-Link AX3000 4.0
+D-Link AX3000 V5
+D-Link AX3000 V6
+D-Link AX5400 1.0
+D-Link AX5400 2.0
+D-Link AX5400 3.0
+D-Link AX5400 4.0
+D-Link AX5400 V5
+D-Link AX5400 V6
+D-Link AX6000 1.0
+D-Link AX6000 2.0
+D-Link AX6000 3.0
+D-Link AX6000 4.0
+D-Link AX6000 V5
+D-Link AX6000 V6
+D-Link AXE5400 1.0
+D-Link AXE5400 2.0
+D-Link AXE5400 3.0
+D-Link AXE5400 4.0
+D-Link AXE5400 V5
+D-Link AXE5400 V6
+D-Link AXE6600 1.0
+D-Link AXE6600 2.0
+D-Link AXE6600 3.0
+D-Link AXE6600 4.0
+D-Link AXE6600 V5
+D-Link AXE6600 V6
+D-Link AXE11000 1.0
+D-Link AXE11000 2.0
+D-Link AXE11000 3.0
+D-Link AXE11000 4.0
+D-Link AXE11000 V5
+D-Link AXE11000 V6
+D-Link DI-524 1.0
+D-Link DI-524 2.0
+D-Link DI-524 3.0
+D-Link DI-524 4.0
+D-Link DI-524 5.0
+D-Link DI-524 6.0
+D-Link DI-524 7.0
+D-Link DI-524 8.0
+D-Link DI-524 9.0
+D-Link DI-524 10.0
+D-Link DI-524UP 1.0
+D-Link DI-524UP 2.0
+D-Link DI-524UP 3.0
+D-Link DI-524UP 4.0
+D-Link DI-524UP 5.0
+D-Link DI-604 1.0
+D-Link DI-604 2.0
+D-Link DI-604 3.0
+D-Link DI-604 4.0
+D-Link DI-604 5.0
+D-Link DI-614+ 1.0
+D-Link DI-614+ 2.0
+D-Link DI-614+ 3.0
+D-Link DI-614+ 4.0
+D-Link DI-614+ 5.0
+D-Link DI-624 1.0
+D-Link DI-624 2.0
+D-Link DI-624 3.0
+D-Link DI-624 4.0
+D-Link DI-624 5.0
+D-Link DI-624+ 1.0
+D-Link DI-624+ 2.0
+D-Link DI-624+ 3.0
+D-Link DI-624+ 4.0
+D-Link DI-624+ 5.0
+D-Link DI-624S 1.0
+D-Link DI-624S 2.0
+D-Link DI-624S 3.0
+D-Link DI-624S 4.0
+D-Link DI-624S 5.0
+D-Link DI-634M 1.0
+D-Link DI-634M 2.0
+D-Link DI-634M 3.0
+D-Link DI-634M 4.0
+D-Link DI-634M 5.0
+D-Link DI-704P 1.0
+D-Link DI-704P 2.0
+D-Link DI-704P 3.0
+D-Link DI-704P 4.0
+D-Link DI-704P 5.0
+D-Link DI-704UP 1.0
+D-Link DI-704UP 2.0
+D-Link DI-704UP 3.0
+D-Link DI-704UP 4.0
+D-Link DI-704UP 5.0
+D-Link DI-707P 1.0
+D-Link DI-707P 2.0
+D-Link DI-707P 3.0
+D-Link DI-707P 4.0
+D-Link DI-707P 5.0
+D-Link DI-713P 1.0
+D-Link DI-713P 2.0
+D-Link DI-713P 3.0
+D-Link DI-713P 4.0
+D-Link DI-713P 5.0
+D-Link DI-714P+ 1.0
+D-Link DI-714P+ 2.0
+D-Link DI-714P+ 3.0
+D-Link DI-714P+ 4.0
+D-Link DI-714P+ 5.0
+D-Link DI-724P+ 1.0
+D-Link DI-724P+ 2.0
+D-Link DI-724P+ 3.0
+D-Link DI-724P+ 4.0
+D-Link DI-724P+ 5.0
+D-Link DI-724U 1.0
+D-Link DI-724U 2.0
+D-Link DI-724U 3.0
+D-Link DI-724U 4.0
+D-Link DI-724U 5.0
+D-Link DI-764 1.0
+D-Link DI-764 2.0
+D-Link DI-764 3.0
+D-Link DI-764 4.0
+D-Link DI-764 5.0
+D-Link DI-774 1.0
+D-Link DI-774 2.0
+D-Link DI-774 3.0
+D-Link DI-774 4.0
+D-Link DI-774 5.0
+D-Link DI-784 1.0
+D-Link DI-784 2.0
+D-Link DI-784 3.0
+D-Link DI-784 4.0
+D-Link DI-784 5.0
+D-Link DI-804HV 1.0
+D-Link DI-804HV 2.0
+D-Link DI-804HV 3.0
+D-Link DI-804HV 4.0
+D-Link DI-804HV 5.0
+D-Link DI-808HV 1.0
+D-Link DI-808HV 2.0
+D-Link DI-808HV 3.0
+D-Link DI-808HV 4.0
+D-Link DI-808HV 5.0
+D-Link DI-824VUP 1.0
+D-Link DI-824VUP 2.0
+D-Link DI-824VUP 3.0
+D-Link DI-824VUP 4.0
+D-Link DI-824VUP 5.0
+D-Link DI-824VUP+ 1.0
+D-Link DI-824VUP+ 2.0
+D-Link DI-824VUP+ 3.0
+D-Link DI-824VUP+ 4.0
+D-Link DI-824VUP+ 5.0
+D-Link WBR-1310 1.0
+D-Link WBR-1310 2.0
+D-Link WBR-1310 3.0
+D-Link WBR-1310 4.0
+D-Link WBR-1310 5.0
+D-Link WBR-1310 6.0
+D-Link WBR-1310 7.0
+D-Link WBR-1310 8.0
+D-Link WBR-1310 9.0
+D-Link WBR-1310 10.0
+D-Link WBR-2310 1.0
+D-Link WBR-2310 2.0
+D-Link WBR-2310 3.0
+D-Link WBR-2310 4.0
+D-Link WBR-2310 5.0
+D-Link DIR-412 1.0
+D-Link DIR-412 2.0
+D-Link DIR-412 3.0
+D-Link DIR-412 4.0
+D-Link DIR-412 5.0
+D-Link DIR-412 6.0
+D-Link DIR-412 7.0
+D-Link DIR-412 8.0
+D-Link DIR-412 9.0
+D-Link DIR-412 10.0
+D-Link DIR-420 1.0
+D-Link DIR-420 2.0
+D-Link DIR-420 3.0
+D-Link DIR-420 4.0
+D-Link DIR-420 5.0
+D-Link DIR-435 1.0
+D-Link DIR-435 2.0
+D-Link DIR-435 3.0
+D-Link DIR-435 4.0
+D-Link DIR-435 5.0
+D-Link DIR-451 1.0
+D-Link DIR-451 2.0
+D-Link DIR-451 3.0
+D-Link DIR-451 4.0
+D-Link DIR-451 5.0
+D-Link DIR-455 1.0
+D-Link DIR-455 2.0
+D-Link DIR-455 3.0
+D-Link DIR-455 4.0
+D-Link DIR-455 5.0
+D-Link DIR-456 1.0
+D-Link DIR-456 2.0
+D-Link DIR-456 3.0
+D-Link DIR-456 4.0
+D-Link DIR-456 5.0
+D-Link DIR-457 1.0
+D-Link DIR-457 2.0
+D-Link DIR-457 3.0
+D-Link DIR-457 4.0
+D-Link DIR-457 5.0
+D-Link DIR-505 1.0
+D-Link DIR-505 2.0
+D-Link DIR-505 3.0
+D-Link DIR-505 4.0
+D-Link DIR-505 5.0
+D-Link DIR-506 1.0
+D-Link DIR-506 2.0
+D-Link DIR-506 3.0
+D-Link DIR-506 4.0
+D-Link DIR-506 5.0
+D-Link DIR-506L 1.0
+D-Link DIR-506L 2.0
+D-Link DIR-506L 3.0
+D-Link DIR-506L 4.0
+D-Link DIR-506L 5.0
+D-Link DIR-508 1.0
+D-Link DIR-508 2.0
+D-Link DIR-508 3.0
+D-Link DIR-508 4.0
+D-Link DIR-508 5.0
+D-Link DIR-510L 1.0
+D-Link DIR-510L 2.0
+D-Link DIR-510L 3.0
+D-Link DIR-510L 4.0
+D-Link DIR-510L 5.0
+D-Link DIR-513 1.0
+D-Link DIR-513 2.0
+D-Link DIR-513 3.0
+D-Link DIR-513 4.0
+D-Link DIR-513 5.0
+D-Link DIR-514 1.0
+D-Link DIR-514 2.0
+D-Link DIR-514 3.0
+D-Link DIR-514 4.0
+D-Link DIR-514 5.0
+D-Link DIR-515 1.0
+D-Link DIR-515 2.0
+D-Link DIR-515 3.0
+D-Link DIR-515 4.0
+D-Link DIR-515 5.0
+Edimax BR-6208AC 1.0
+Edimax BR-6208AC V2 1.0
+Edimax BR-6208AC V3 1.0
+Edimax BR-6208AC V4 1.0
+Edimax BR-6228nC 1.0
+Edimax BR-6228nC V2 1.0
+Edimax BR-6228nS 1.0
+Edimax BR-6228nS V2 1.0
+Edimax BR-6288ACL 1.0
+Edimax BR-6288ACL V2 1.0
+Edimax BR-6428nC 1.0
+Edimax BR-6428nC V2 1.0
+Edimax BR-6428nS 1.0
+Edimax BR-6428nS V2 1.0
+Edimax BR-6428nS V3 1.0
+Edimax BR-6428nS V4 1.0
+Edimax BR-6428nS V5 1.0
+Edimax BR-6478AC 1.0
+Edimax BR-6478AC V2 1.0
+Edimax BR-6478AC V3 1.0
+Edimax BR-6478AC V4 1.0
+Edimax BR-6478AC V5 1.0
+Edimax BR-6479AC 1.0
+Edimax BR-6479AC V2 1.0
+Edimax BR-6479AC V3 1.0
+Edimax BR-6479AC V4 1.0
+Edimax EW-7438RPn 1.0
+Edimax EW-7438RPn V2 1.0
+Edimax EW-7438RPn V3 1.0
+Edimax EW-7438RPn V4 1.0
+Edimax EW-7438RPn V5 1.0
+Edimax EW-7476RPC 1.0
+Edimax EW-7476RPC V2 1.0
+Edimax EW-7478AC 1.0
+Edimax EW-7478AC V2 1.0
+Edimax EW-7478APC 1.0
+Edimax EW-7478APC V2 1.0
+Edimax EW-7479APC 1.0
+Edimax EW-7479APC V2 1.0
+Edimax EW-7612PIn 1.0
+Edimax EW-7612PIn V2 1.0
+Edimax EW-7622APn 1.0
+Edimax EW-7622APn V2 1.0
+Edimax Edimax
+EC120-F5 1.0
+EC220-G5 2.0
+EnGenius wireless AP Router EnGenius
+EV-2009-02-06
+Enhanced Wireless Router F6D4230-4 v1
+HOT HOTBOX
+HOT HOTBOX 2.1.11
+Home Internet Center KEENETIC series
+Home Internet Center Keenetic series
+Huawei Wireless Access Point RT2860
+Huawei WS318
+Huawei WS318 V100R001C01B022
+Huawei HG532 1.0
+Huawei HG532e 1.0
+Huawei HG532s
+Huawei HG533 1.0
+Huawei HG552 1.0
+Huawei HG553 1.0
+Huawei HG556 1.0
+Huawei HG556a 1.0
+Huawei HG658 1.0
+Huawei HG659 1.0
+Huawei HG8010 1.0
+Huawei HG8010H 1.0
+Huawei HG8040 1.0
+Huawei HG8040H 1.0
+Huawei HG8045 1.0
+Huawei HG8045A 1.0
+Huawei HG8045H 1.0
+Huawei HG8145 1.0
+Huawei HG8145V 1.0
+Huawei HG8145V5 1.0
+Huawei HG8240 1.0
+Huawei HG8240H 1.0
+Huawei HG8240T 1.0
+Huawei HG8240W 1.0
+Huawei HG8245 1.0
+Huawei HG8245A 1.0
+Huawei HG8245H 1.0
+Huawei HG8245Q 1.0
+Huawei HG8245T 1.0
+Huawei HG8245U 1.0
+Huawei HG8245W5 1.0
+Huawei HG8245U5 1.0
+Huawei HG8245U6 1.0
+Huawei HG8245U7 1.0
+Huawei HG8247 1.0
+Huawei HG8247H 1.0
+Huawei HG8247Q 1.0
+Huawei HG8247T 1.0
+Huawei HG8247U 1.0
+Huawei HG8247W 1.0
+Huawei HG8310 1.0
+Huawei HG8310M 1.0
+Huawei HG8321 1.0
+Huawei HG8342 1.0
+Huawei HG8342M 1.0
+Huawei HG8346 1.0
+Huawei HG8346M 1.0
+Huawei HG8347 1.0
+Huawei HG8347M 1.0
+Huawei HG8347R 1.0
+Huawei HG8540 1.0
+Huawei HG8540M 1.0
+Huawei HG8545 1.0
+Huawei HG8545M 1.0
+Huawei HG8546 1.0
+Huawei HG8546M 1.0
+Huawei HG8546M5 1.0
+Huawei HG8546M5V 1.0
+Huawei HG8546X6 1.0
+Huawei HG8546X6V 1.0
+Huawei HG8546X6V5 1.0
+Huawei HS8145V5
+Huawei B525
+Huawei BE3 Pro 1.0
+Huawei BE7 1.0
+Huawei AX2 1.0
+Huawei AX2 Pro 1.0
+Huawei AX3 1.0
+Huawei AX3 Pro 1.0
+Huawei AX6 1.0
+Huawei AX6 Pro 1.0
+Huawei WS5200 1.0
+Huawei WS5200 V2 1.0
+Huawei WS5200 V3 1.0
+Huawei WS5200 V4 1.0
+Huawei WS6500 1.0
+Huawei WS7100 1.0
+Huawei WS7200 1.0
+Huawei WS8800 1.0
+Huawei WS9000 1.0
+JWNR2000v2(Wireless AP) JWNR2000v2
+Keenetic Keenetic series
+Keenetic Start 1.0
+Keenetic Lite 1.0
+Keenetic 4G 1.0
+Keenetic Extra 1.0
+Keenetic Giga 1.0
+Keenetic Ultra 1.0
+Keenetic Viva 1.0
+Keenetic Omni 1.0
+Keenetic Air 1.0
+Keenetic City 1.0
+Linksys Wireless Access Point EA7500
+Linksys Wireless Router WRT110
+Linksys WRT54GL
+Linksys E5600
+Linksys E7350
+Linksys E8450
+Linksys E900 1.0
+Linksys E1000 1.0
+Linksys E1200 1.0
+Linksys E1500 1.0
+Linksys E1550 1.0
+Linksys E1700 1.0
+Linksys E2000 1.0
+Linksys E2100L 1.0
+Linksys E2500 1.0
+Linksys E3000 1.0
+Linksys E3200 1.0
+Linksys E4200 1.0
+Linksys EA2700 1.0
+Linksys EA3500 1.0
+Linksys EA4500 1.0
+Linksys EA6100 1.0
+Linksys EA6200 1.0
+Linksys EA6300 1.0
+Linksys EA6350 1.0
+Linksys EA6400 1.0
+Linksys EA6500 1.0
+Linksys EA6700 1.0
+Linksys EA6900 1.0
+Linksys EA7200
+Linksys EA7300 1.0
+Linksys EA7400 1.0
+Linksys EA7430
+Linksys EA7450
+Linksys EA7500 1.0
+Linksys EA8100
+Linksys EA8300 1.0
+Linksys EA8500 1.0
+Linksys EA9200 1.0
+Linksys EA9300 1.0
+Linksys EA9500 1.0
+Linksys MR7350
+Linksys MR7500
+Linksys MR8300
+Linksys MR9000
+Linksys MR9600
+Linksys MX4200
+Linksys MX5300
+Linksys MX5500
+Linksys MX8500
+Linksys RE4100W
+Linksys RE6250
+Linksys RE6300
+Linksys RE6300 V2
+Linksys RE6350
+Linksys RE6350 V2
+Linksys RE6400
+Linksys RE6500
+Linksys RE6500 V2
+Linksys RE6600
+Linksys RE6700
+Linksys RE6800
+Linksys RE7000
+Linksys RE7000 V2
+Linksys RE7350
+Linksys RE9000
+Linksys RE9000 V2
+Linksys Velop AC1300
+Linksys Velop AC2200
+Linksys Velop AC3900
+Linksys Velop AX4200
+Linksys Velop AX5300
+Linksys Velop MX4200
+Linksys Velop MX5300
+Linksys Velop MX10600
+Linksys WHW01
+Linksys WHW0101
+Linksys WHW0102
+Linksys WHW0103
+Linksys WHW0301
+Linksys WHW0302
+Linksys WHW0303
+Mercusys AC12G
+Mercusys AC12G V1
+Mercusys AC12G V2
+Mercusys AC12G V3
+Mercusys AC12G(EU)_V1_200909
+Mercusys AC10 1.0
+Mercusys AC10 V2 1.0
+Mercusys AC10 V3
+Mercusys AC12 1.0
+Mercusys AC12 V2 1.0
+Mercusys AC12 V3
+Mercusys AC1200 1.0
+Mercusys AC1200 V2 1.0
+Mercusys AC1200 V3
+Mercusys AC1300 1.0
+Mercusys AC1300 V2 1.0
+Mercusys AC1300 V3
+Mercusys AC1900 1.0
+Mercusys AC1900 V2 1.0
+Mercusys AC1900 V3
+Mercusys AC2100 1.0
+Mercusys AC2100 V2 1.0
+Mercusys AC2100 V3
+Mercusys MW150US 1.0
+Mercusys MW300R 1.0
+Mercusys MW300R V2 1.0
+Mercusys MW300R V3
+Mercusys MW301R 1.0
+Mercusys MW301R V2 1.0
+Mercusys MW301R V3
+Mercusys MW302R 1.0
+Mercusys MW302R V2 1.0
+Mercusys MW302R V3
+Mercusys MW305R 1.0
+Mercusys MW305R V2 1.0
+Mercusys MW305R V3
+Mercusys MW306R 1.0
+Mercusys MW306R V2 1.0
+Mercusys MW306R V3
+Mercusys MW325R 1.0
+Mercusys MW325R V2 1.0
+Mercusys MW325R V3
+Mercusys MW330HP 1.0
+Mercusys MW330HP V2 1.0
+Mercusys MW330HP V3
+Mercusys Halo H30G 1.0
+Mercusys Halo H30G V2 1.0
+Mercusys Halo H30G V3 1.0
+Mercusys Halo H30G V4
+Mercusys Halo H50G 1.0
+Mercusys Halo H50G V2 1.0
+Mercusys Halo H50G V3 1.0
+Mercusys Halo H50G V4
+Mercusys Halo H60X 1.0
+Mercusys Halo H60X V2 1.0
+Mercusys Halo H60X V3 1.0
+Mercusys Halo H60X V4
+Mercusys Halo H70X 1.0
+Mercusys Halo H70X V2 1.0
+Mercusys Halo H70X V3 1.0
+Mercusys Halo H70X V4
+Mercusys Halo H80X 1.0
+Mercusys Halo H80X V2 1.0
+Mercusys Halo H80X V3 1.0
+Mercusys Halo H80X V4
+Mercusys Halo H90X 1.0
+Mercusys Halo H90X V2 1.0
+Mercusys Halo H90X V3 1.0
+Mercusys Halo H90X V4
+Mercusys MR30G 1.0
+Mercusys MR30G V2 1.0
+Mercusys MR30G V3
+Mercusys MR50G 1.0
+Mercusys MR50G V2 1.0
+Mercusys MR50G V3
+Mercusys MR60X 1.0
+Mercusys MR60X V2 1.0
+Mercusys MR60X V3 1.0
+Mercusys MR60X V4
+Mercusys MR70X 1.0
+Mercusys MR70X V2 1.0
+Mercusys MR70X V3 1.0
+Mercusys MR70X V4
+Mercusys MR80X 1.0
+Mercusys MR80X V2 1.0
+Mercusys MR80X V3 1.0
+Mercusys MR80X V4
+Mercusys MR90X 1.0
+Mercusys MR90X V2 1.0
+Mercusys MR90X V3 1.0
+Mercusys MR90X V4
+Mercusys AX1800 1.0
+Mercusys AX1800 V2 1.0
+Mercusys AX1800 V3 1.0
+Mercusys AX1800 V4
+Mercusys AX3000 1.0
+Mercusys AX3000 V2 1.0
+Mercusys AX3000 V3 1.0
+Mercusys AX3000 V4
+Mercusys AX6000 1.0
+Mercusys AX6000 V2 1.0
+Mercusys AX6000 V3 1.0
+Mercusys AX6000 V4
+NBG-419N NBG-419N
+Netgear AP EV-2012-08-04
+NETGEAR Wireless Access Point NETGEAR
+NETGEAR Wireless Access Point R6220
+NETGEAR Wireless Access Point R6260
+Netgear WNR834B 1.0
+Netgear WNR834B 2.0
+Netgear WNR834B V3 1.0
+Netgear WNR1000 1.0
+Netgear WNR1000 2.0
+Netgear WNR1000 3.0
+Netgear WNR1000 4.0
+Netgear WNR1000 V5 1.0
+Netgear WNR1000v2 1.0
+Netgear WNR1000v3 1.0
+Netgear WNR1500 1.0
+Netgear WNR1500 V2 1.0
+Netgear WNR2020 1.0
+Netgear WNR2020 2.0
+Netgear WNR2020 V3 1.0
+Netgear WNR2020v2 1.0
+Netgear WNR2500 1.0
+Netgear WNR2500 V2 1.0
+Netgear WNR614 1.0
+Netgear WNR614 2.0
+Netgear WNR614 3.0
+Netgear WNR614 V4 1.0
+Netgear WNR614 1.1.0.54_1.0.1
+Netgear WNR618 1.0
+Netgear WNR618 V2 1.0
+Netgear JNR1010 1.0
+Netgear JNR1010 V2 1.0
+Netgear JNR1010v2 1.0
+Netgear JNR3000 1.0
+Netgear JNR3000 V2 1.0
+Netgear JNR3210 1.0
+Netgear JNR3210 2.0
+Netgear JNR3210 V3 1.0
+Netgear JWNR2000 1.0
+Netgear JWNR2000 V5 1.0
+Netgear JWNR2000v2 1.0
+Netgear JWNR2000v3 1.0
+Netgear JWNR2000v4 1.0
+Netgear JWNR2010 1.0
+Netgear JWNR2010 V6 1.0
+Netgear JWNR2010v5 1.0
+Netgear JR6150 1.0
+Netgear JR6150 2.0
+Netgear JR6150 V3 1.0
+Netgear R6020 1.0
+Netgear R6020 2.0
+Netgear R6020 V3 1.0
+Netgear R6020 V4
+Netgear R6080 1.0
+Netgear R6080 2.0
+Netgear R6080 V3 1.0
+Netgear R6080 V4
+Netgear R6120 1.0
+Netgear R6120 2.0
+Netgear R6120 V3 1.0
+Netgear R6120 V4
+Netgear R6350 1.0
+Netgear R6350 2.0
+Netgear R6350 V3 1.0
+Netgear R6350 V4
+Netgear R6850 1.0
+Netgear R6850 2.0
+Netgear R6850 V3 1.0
+Netgear R6850 V4
+Netgear R7000 V4
+Netgear R7000P V4
+Netgear R7450 1.0
+Netgear R7450 2.0
+Netgear R7450 V3 1.0
+Netgear R7450 V4
+Netgear R7500 V4
+Netgear R7800 V4
+Netgear R7850 1.0
+Netgear R7850 2.0
+Netgear R7850 V3 1.0
+Netgear R7850 V4
+Netgear R7900 V4
+Netgear R8000 1.0
+Netgear R8000 2.0
+Netgear R8000 3.0
+Netgear R8000 V4 1.0
+Netgear R8000 V5
+Netgear R8000P 1.0
+Netgear R8000P 2.0
+Netgear R8000P 3.0
+Netgear R8000P V4 1.0
+Netgear R8000P V5
+Netgear R8300 V4
+Netgear R8500 1.0
+Netgear R8500 2.0
+Netgear R8500 3.0
+Netgear R8500 V4 1.0
+Netgear R8500 V5
+Netgear R9000 V4
+Netgear RAX15 1.0
+Netgear RAX15 2.0
+Netgear RAX15 V3 1.0
+Netgear RAX20 1.0
+Netgear RAX20 2.0
+Netgear RAX20 V3 1.0
+Netgear RAX35 1.0
+Netgear RAX35 2.0
+Netgear RAX35 V3 1.0
+Netgear RAX38 1.0
+Netgear RAX38 V2 1.0
+Netgear RAX40 1.0
+Netgear RAX40 2.0
+Netgear RAX40 V3 1.0
+Netgear RAX40 V4
+Netgear RAX40v2 1.0
+Netgear RAX42 1.0
+Netgear RAX42 V2 1.0
+Netgear RAX43 1.0
+Netgear RAX43 2.0
+Netgear RAX43 V3 1.0
+Netgear RAX43 V4
+Netgear RAX45 1.0
+Netgear RAX45 2.0
+Netgear RAX45 V3 1.0
+Netgear RAX45 V4
+Netgear RAX48 1.0
+Netgear RAX48 2.0
+Netgear RAX48 V3 1.0
+Netgear RAX48 V4
+Netgear RAX50 1.0
+Netgear RAX50 2.0
+Netgear RAX50 V3 1.0
+Netgear RAX50 V4
+Netgear RAX50S 1.0
+Netgear RAX50S V2 1.0
+Netgear RAX54 1.0
+Netgear RAX54 V2 1.0
+Netgear RAX54S 1.0
+Netgear RAX54S V2 1.0
+Netgear RAX70 1.0
+Netgear RAX70 2.0
+Netgear RAX70 V3 1.0
+Netgear RAX70 V4
+Netgear RAX75 1.0
+Netgear RAX75 2.0
+Netgear RAX75 V3 1.0
+Netgear RAX75 V4
+Netgear RAX80 1.0
+Netgear RAX80 2.0
+Netgear RAX80 V3 1.0
+Netgear RAX80 V4
+Netgear RAX90 1.0
+Netgear RAX90 V2 1.0
+Netgear RAX120 1.0
+Netgear RAX120 2.0
+Netgear RAX120 V3 1.0
+Netgear RAX120 V4
+Netgear RAX120v2 1.0
+Netgear RAX200 1.0
+Netgear RAX200 2.0
+Netgear RAX200 V3 1.0
+Netgear RAX200 V4
+Netgear RAXE290 1.0
+Netgear RAXE290 V2 1.0
+Netgear RAXE290 V3
+Netgear RAXE300 1.0
+Netgear RAXE300 2.0
+Netgear RAXE300 V3 1.0
+Netgear RAXE300 V4
+Netgear RAXE450 1.0
+Netgear RAXE450 V2 1.0
+Netgear RAXE450 V3
+Netgear RAXE500 1.0
+Netgear RAXE500 2.0
+Netgear RAXE500 V3 1.0
+Netgear RAXE500 V4
+Netgear MR60 1.0
+Netgear MR60 2.0
+Netgear MR60 V3 1.0
+Netgear MK62 1.0
+Netgear MK62 V2 1.0
+Netgear MK63 1.0
+Netgear MK63 V2 1.0
+Netgear MK63S 1.0
+Netgear MK63S V2 1.0
+Netgear MK73S 1.0
+Netgear MK73S V2 1.0
+Netgear MK83 1.0
+Netgear MK83 2.0
+Netgear MK83 V3 1.0
+Netgear MS60 1.0
+Netgear MS60 2.0
+Netgear MS60 V3 1.0
+Netgear RBK12 1.0
+Netgear RBK12 2.0
+Netgear RBK12 V3 1.0
+Netgear RBK13 1.0
+Netgear RBK13 2.0
+Netgear RBK13 V3 1.0
+Netgear RBK14 1.0
+Netgear RBK14 V2 1.0
+Netgear RBK15 1.0
+Netgear RBK15 V2 1.0
+Netgear RBK20 1.0
+Netgear RBK20 2.0
+Netgear RBK20 V3 1.0
+Netgear RBK22 1.0
+Netgear RBK22 V2 1.0
+Netgear RBK23 1.0
+Netgear RBK23 V2 1.0
+Netgear RBK30 1.0
+Netgear RBK30 V2 1.0
+Netgear RBK33 1.0
+Netgear RBK33 V2 1.0
+Netgear RBK40 1.0
+Netgear RBK40 2.0
+Netgear RBK40 V3 1.0
+Netgear RBK42 1.0
+Netgear RBK42 V2 1.0
+Netgear RBK43 1.0
+Netgear RBK43 V2 1.0
+Netgear RBK43S 1.0
+Netgear RBK43S V2 1.0
+Netgear RBK44 1.0
+Netgear RBK44 V2 1.0
+Netgear RBK50 1.0
+Netgear RBK50 2.0
+Netgear RBK50 3.0
+Netgear RBK50 V4 1.0
+Netgear RBK50 V5
+Netgear RBK50V 1.0
+Netgear RBK50V V2 1.0
+Netgear RBK52 1.0
+Netgear RBK52 V2 1.0
+Netgear RBK53 1.0
+Netgear RBK53 V2 1.0
+Netgear RBK53S 1.0
+Netgear RBK53S V2 1.0
+Netgear RBK752 1.0
+Netgear RBK752 2.0
+Netgear RBK752 V3 1.0
+Netgear RBK753 1.0
+Netgear RBK753 2.0
+Netgear RBK753 V3 1.0
+Netgear RBK753S 1.0
+Netgear RBK753S V2 1.0
+Netgear RBK754 1.0
+Netgear RBK754 V2 1.0
+Netgear RBK762 1.0
+Netgear RBK762 V2 1.0
+Netgear RBK762S 1.0
+Netgear RBK762S V2 1.0
+Netgear RBK763 1.0
+Netgear RBK763 V2 1.0
+Netgear RBK763S 1.0
+Netgear RBK763S V2 1.0
+Netgear RBK852 1.0
+Netgear RBK852 2.0
+Netgear RBK852 V3 1.0
+Netgear RBK852 V4
+Netgear RBK853 1.0
+Netgear RBK853 2.0
+Netgear RBK853 V3 1.0
+Netgear RBK853 V4
+Netgear RBK854 1.0
+Netgear RBK854 V2 1.0
+Netgear RBK862 1.0
+Netgear RBK862 V2 1.0
+Netgear RBK862 V3
+Netgear RBK862S 1.0
+Netgear RBK862S V2 1.0
+Netgear RBK863 1.0
+Netgear RBK863 V2 1.0
+Netgear RBK863 V3
+Netgear RBK863S 1.0
+Netgear RBK863S V2 1.0
+Netgear RBK864 1.0
+Netgear RBK864 V2 1.0
+Netgear RBKE962 1.0
+Netgear RBKE962 V2 1.0
+Netgear RBKE963 1.0
+Netgear RBKE963 V2 1.0
+Netgear RBKE963 V3
+Netgear RBKE963B 1.0
+Netgear RBKE963B V2 1.0
+Netgear RBKE964 1.0
+Netgear RBKE964 V2 1.0
+Netgear RBKE964 V3
+Netgear C3700 1.0
+Netgear C3700 2.0
+Netgear C3700 V3 1.0
+Netgear C6250 1.0
+Netgear C6250 2.0
+Netgear C6250 V3 1.0
+Netgear C6300 1.0
+Netgear C6300 2.0
+Netgear C6300 V3 1.0
+Netgear C7000 1.0
+Netgear C7000 2.0
+Netgear C7000 V3 1.0
+Netgear C7100V 1.0
+Netgear C7100V V2 1.0
+Netgear C7800 1.0
+Netgear C7800 2.0
+Netgear C7800 V3 1.0
+Netgear CAX30 1.0
+Netgear CAX30 2.0
+Netgear CAX30 V3 1.0
+Netgear CAX30S 1.0
+Netgear CAX30S V2 1.0
+Netgear CAX80 1.0
+Netgear CAX80 2.0
+Netgear CAX80 V3 1.0
+Netgear CM500 1.0
+Netgear CM500V 1.0
+Netgear CM600 1.0
+Netgear CM700 1.0
+Netgear CM1000 1.0
+Netgear CM1100 1.0
+Netgear CM1150V 1.0
+Netgear CM1200 1.0
+Netgear CM2000 1.0
+Netgear CM2050V 1.0
+Netgear CM3000 1.0
+Netgear DM200 1.0
+Netgear DM200 V2 1.0
+Netgear DM111PSP 1.0
+Netgear DM111PSP 2.0
+Netgear DM111PSP V3 1.0
+Netgear DGN1000 1.0
+Netgear DGN1000 2.0
+Netgear DGN1000 V3 1.0
+Netgear DGN1000 V4
+Netgear DGN2000 1.0
+Netgear DGN2000 V2 1.0
+Netgear DGN2200 1.0
+Netgear DGN2200 2.0
+Netgear DGN2200 V5 1.0
+Netgear DGN2200 V6
+Netgear DGN2200v2 1.0
+Netgear DGN2200v3 1.0
+Netgear DGN2200v4 1.0
+Netgear DGN3500 1.0
+Netgear DGN3500 2.0
+Netgear DGN3500 V3 1.0
+Netgear DGND3700 1.0
+Netgear DGND3700 V3 1.0
+Netgear DGND3700 V4
+Netgear DGND3700v2 1.0
+Netgear DGND3800B 1.0
+Netgear DGND3800B V2 1.0
+Netgear DGND4000 1.0
+Netgear DGND4000 2.0
+Netgear DGND4000 V3 1.0
+Netgear DGND4000 V4
+Netgear D6400 1.0
+Netgear D6400 2.0
+Netgear D6400 V3 1.0
+Netgear D6400 V4
+Netgear D7000 1.0
+Netgear D7000 2.0
+Netgear D7000 V3 1.0
+Netgear D7000 V4
+Netgear D7000v2 1.0
+Netgear D7800 1.0
+Netgear D7800 2.0
+Netgear D7800 V3 1.0
+Netgear D7800 V4
+Netgear D8500 1.0
+Netgear D8500 2.0
+Netgear D8500 V3 1.0
+Netgear D8500 V4
+Netgear EX2700 1.0
+Netgear EX2700 2.0
+Netgear EX2700 V3 1.0
+Netgear EX2700 V4
+Netgear EX2800 1.0
+Netgear EX2800 V2 1.0
+Netgear EX3110 1.0
+Netgear EX3110 V2 1.0
+Netgear EX3700 1.0
+Netgear EX3700 2.0
+Netgear EX3700 V3 1.0
+Netgear EX3700 V4
+Netgear EX3800 1.0
+Netgear EX3800 V2 1.0
+Netgear EX3920 1.0
+Netgear EX3920 V2 1.0
+Netgear EX5000 1.0
+Netgear EX5000 V2 1.0
+Netgear EX6000 1.0
+Netgear EX6000 V2 1.0
+Netgear EX6100 1.0
+Netgear EX6100 2.0
+Netgear EX6100 V3 1.0
+Netgear EX6100 V4
+Netgear EX6110 1.0
+Netgear EX6110 V2 1.0
+Netgear EX6120 1.0
+Netgear EX6120 V2 1.0
+Netgear EX6130 1.0
+Netgear EX6130 V2 1.0
+Netgear EX6150 1.0
+Netgear EX6150 2.0
+Netgear EX6150 V3 1.0
+Netgear EX6150 V4
+Netgear EX6200 1.0
+Netgear EX6200 2.0
+Netgear EX6200 V3 1.0
+Netgear EX6200 V4
+Netgear EX6250 1.0
+Netgear EX6250 V2 1.0
+Netgear EX6400 1.0
+Netgear EX6400 2.0
+Netgear EX6400 V3 1.0
+Netgear EX6400 V4
+Netgear EX6410 1.0
+Netgear EX6410 V2 1.0
+Netgear EX6420 1.0
+Netgear EX6420 V2 1.0
+Netgear EX7000 1.0
+Netgear EX7000 2.0
+Netgear EX7000 V3 1.0
+Netgear EX7000 V4
+Netgear EX7300 1.0
+Netgear EX7300 2.0
+Netgear EX7300 V3 1.0
+Netgear EX7300 V4
+Netgear EX7500 1.0
+Netgear EX7500 2.0
+Netgear EX7500 V3 1.0
+Netgear EX7500 V4
+Netgear EX7700 1.0
+Netgear EX7700 2.0
+Netgear EX7700 V3 1.0
+Netgear EX7700 V4
+Netgear EX8000 1.0
+Netgear EX8000 2.0
+Netgear EX8000 V3 1.0
+Netgear EX8000 V4
+Netgear EAX15 1.0
+Netgear EAX15 V2 1.0
+Netgear EAX20 1.0
+Netgear EAX20 2.0
+Netgear EAX20 V3 1.0
+Netgear EAX20 V4
+Netgear EAX80 1.0
+Netgear EAX80 2.0
+Netgear EAX80 V3 1.0
+Netgear EAX80 V4
+Netgear WN2000RPT 1.0
+Netgear WN2000RPT 2.0
+Netgear WN2000RPT V3 1.0
+Netgear WN2500RP 1.0
+Netgear WN2500RP V2 1.0
+Netgear WN3000RP 1.0
+Netgear WN3000RP 2.0
+Netgear WN3000RP V4 1.0
+Netgear WN3000RP V5
+Netgear WN3000RPv3 1.0
+Netgear WN3100RP 1.0
+Netgear WN3100RP V2 1.0
+Netgear WN3500RP 1.0
+Netgear WN3500RP 2.0
+Netgear WN3500RP V3 1.0
+Netgear WN3500RP V4
+Netgear WNR3500Lv2 1.0
+Netgear WNR3500Lv2 V2 1.0
+Netgear WNCE2001 1.0
+Netgear WNCE2001 V2 1.0
+Netgear WNCE3001 1.0
+Netgear WNCE3001 V2 1.0
+Netgear WNDA3100 1.0
+Netgear WNDA3100 V4 1.0
+Netgear WNDA3100v2 1.0
+Netgear WNDA3100v3 1.0
+Netgear WNDR3700v2 1.0
+Netgear WNDR3700v3 1.0
+Netgear WNDR3700v4 1.0
+Netgear WNDR3700v5 1.0
+Netgear WNDR3700v5 V2 1.0
+Netgear WNDR3700v5 V3
+Netgear WNDR4000 4.0
+Netgear WNDR4000 V5 1.0
+Netgear WNDR4000 V6
+Netgear WNDR4300v2 1.0
+Netgear WNDR4300v2 V2 1.0
+Netgear WNDR4300v2 V3
+Netgear WNDR4500v2 1.0
+Netgear WNDR4500v3 1.0
+Netgear WNDR4500v3 V2 1.0
+Netgear WNDR4500v3 V3
+Netgear WNDR4700 1.0
+Netgear WNDR4700 V2 1.0
+Netgear WNDR4720 1.0
+Netgear WNDR4720 2.0
+Netgear WNDR4720 V3 1.0
+Netgear WNDR47 1.0
+Netgear WNDR47 V2 1.0
+Nighthawk RS500 1.0
+Nighthawk RAX5 1.0
+Nighthawk RAX10 1.0
+Nighthawk RAX20 1.0
+Nighthawk RAX30 1.0
+Nighthawk RAX35 1.0
+Nighthawk RAX40 1.0
+Nighthawk RAX43 1.0
+Nighthawk RAX45 1.0
+Nighthawk RAX48 1.0
+Nighthawk RAX50 1.0
+Nighthawk RAX70 1.0
+Nighthawk RAX80 1.0
+Nighthawk RAX120 1.0
+Nighthawk RAXE300 1.0
+Nighthawk RAXE500 1.0
+Netis WF2411 1.0
+Netis WF2411 2.0
+Netis WF2411 3.0
+Netis WF2411 V4 1.0
+Netis WF2411 V5 1.0
+Netis WF2411 V6 1.0
+Netis WF2411 V7
+Netis WF2412 1.0
+Netis WF2412 V2 1.0
+Netis WF2412 V3 1.0
+Netis WF2413 1.0
+Netis WF2413 V2 1.0
+Netis WF2413 V3 1.0
+Netis WF2414 1.0
+Netis WF2414 V2 1.0
+Netis WF2414 V3 1.0
+Netis WF2415 1.0
+Netis WF2415 V2 1.0
+Netis WF2415 V3 1.0
+Netis WF2415 V4 1.0
+Netis WF2415 V5
+Netis WF2418 1.0
+Netis WF2418 V2 1.0
+Netis WF2418 V3 1.0
+Netis WF2419 1.0
+Netis WF2419 2.0
+Netis WF2419 3.0
+Netis WF2419 V4 1.0
+Netis WF2419 V5 1.0
+Netis WF2419 V6 1.0
+Netis WF2419 V7
+Netis WF2420 1.0
+Netis WF2420 V2 1.0
+Netis WF2420 V3 1.0
+Netis WF2421 1.0
+Netis WF2421 V2 1.0
+Netis WF2421 V3 1.0
+Netis WF2422 1.0
+Netis WF2422 V2 1.0
+Netis WF2422 V3 1.0
+Netis WF2423 1.0
+Netis WF2423 V2 1.0
+Netis WF2423 V3 1.0
+Netis WF2424 1.0
+Netis WF2424 V2 1.0
+Netis WF2424 V3 1.0
+Netis WF2425 1.0
+Netis WF2425 V2 1.0
+Netis WF2425 V3 1.0
+Netis WF2426 1.0
+Netis WF2426 V2 1.0
+Netis WF2426 V3 1.0
+Netis WF2427 1.0
+Netis WF2427 V2 1.0
+Netis WF2427 V3 1.0
+Netis WF2428 1.0
+Netis WF2428 V2 1.0
+Netis WF2428 V3 1.0
+Netis WF2429 1.0
+Netis WF2429 V2 1.0
+Netis WF2429 V3 1.0
+Netis WF2430 1.0
+Netis WF2430 V2 1.0
+Netis WF2430 V3 1.0
+Netis WF2431 1.0
+Netis WF2431 V2 1.0
+Netis WF2431 V3 1.0
+Netis WF2432 1.0
+Netis WF2432 V2 1.0
+Netis WF2432 V3 1.0
+Netis WF2433 1.0
+Netis WF2433 V2 1.0
+Netis WF2433 V3 1.0
+Netis WF2434 1.0
+Netis WF2434 V2 1.0
+Netis WF2434 V3 1.0
+Netis WF2435 1.0
+Netis WF2435 V2 1.0
+Netis WF2435 V3 1.0
+Netis WF2505 1.0
+Netis WF2505 V2 1.0
+Netis WF2505 V3 1.0
+Netis WF2710 1.0
+Netis WF2710 2.0
+Netis WF2710 3.0
+Netis WF2710 V4 1.0
+Netis WF2710 V5 1.0
+Netis WF2710 V6 1.0
+Netis WF2710 V7
+Netis WF2780 1.0
+Netis WF2780 V2 1.0
+Netis WF2780 V3 1.0
+Netis WF2780 V4 1.0
+Netis WF2880 1.0
+Netis WF2880 2.0
+Netis WF2880 3.0
+Netis WF2880 V4 1.0
+Netis WF2880 V5 1.0
+Netis WF2880 V6 1.0
+Netis WF2880 V7
+Netis WF2881 1.0
+Netis WF2881 V2 1.0
+Netis WF2881 V3 1.0
+Netis WF2881 V4 1.0
+Netis WF2881 V5
+Netis WF2113 1.0
+Netis WF2113 V2 1.0
+Netis WF2113 V3 1.0
+Netis WF2119 1.0
+Netis WF2119 V2 1.0
+Netis WF2119 V3 1.0
+Netis WF2120 1.0
+Netis WF2120 V2 1.0
+Netis WF2120 V3 1.0
+Netis WF2123 1.0
+Netis WF2123 V2 1.0
+Netis WF2123 V3 1.0
+Netis WF2150 1.0
+Netis WF2150 V2 1.0
+Netis WF2150 V3 1.0
+Netis WF2190 1.0
+Netis WF2190 2.0
+Netis WF2190 V3 1.0
+Netis WF2190 V4 1.0
+Netis WF2190 V5 1.0
+Netis NC21 1.0
+Netis NC21 V2 1.0
+Netis NC21 V3 1.0
+Netis NC21 V4 1.0
+Netis NC21 V5
+Netis NC65 1.0
+Netis NC65 V2 1.0
+Netis NC65 V3 1.0
+Netis NC65 V4 1.0
+Netis NC65 V5
+Netis NX10 1.0
+Netis NX10 V2 1.0
+Netis NX10 V3 1.0
+Netis NX10 V4 1.0
+Netis NX10 V5
+Netis MW5360 1.0
+Netis MW5360 V2 1.0
+Netis MW5360 V3 1.0
+Netis MW5360 V4 1.0
+Netis MW5360 V5
+Netis N3Mv2 1.0
+Netis N3Mv2 2.0
+Netis N3Mv2 3.0
+Netis N3Mv2 V4 1.0
+Netis N3Mv2 V5 1.0
+Netis N3Mv2 V6 1.0
+Netis N3Mv2 V7
+Netis N4 1.0
+Netis N4 2.0
+Netis N4 3.0
+Netis N4 V4 1.0
+Netis N4 V5 1.0
+Netis N4 V6 1.0
+Netis N4 V7
+Netis N5 1.0
+Netis N5 2.0
+Netis N5 3.0
+Netis N5 V4 1.0
+Netis N5 V5 1.0
+Netis N5 V6 1.0
+Netis N5 V7
+Netis N6 1.0
+Netis N6 2.0
+Netis N6 3.0
+Netis N6 V4 1.0
+Netis N6 V5 1.0
+Netis N6 V6 1.0
+Netis N6 V7
+Netis M1200 1.0
+Netis M1200 2.0
+Netis M1200 3.0
+Netis M1200 V4 1.0
+Netis M1200 V5 1.0
+Netis M1200 V6 1.0
+Netis M1200 V7
+Netis M1200V2 1.0
+Netis M1200V2 2.0
+Netis M1200V2 3.0
+Netis M1200V2 V4 1.0
+Netis M1200V2 V5 1.0
+Netis M1200V2 V6 1.0
+Netis M1200V2 V7
+Netis W2 1.0
+Netis W2 2.0
+Netis W2 3.0
+Netis W2 V4 1.0
+Netis W2 V5 1.0
+Netis W2 V6 1.0
+Netis W2 V7
+Netis W3 1.0
+Netis W3 2.0
+Netis W3 3.0
+Netis W3 V4 1.0
+Netis W3 V5 1.0
+Netis W3 V6 1.0
+Netis W3 V7
+Netis W4 1.0
+Netis W4 2.0
+Netis W4 3.0
+Netis W4 V4 1.0
+Netis W4 V5 1.0
+Netis W4 V6 1.0
+Netis W4 V7
+Ralink Wireless Access Point RT2860
+Ralink Wireless Access Point WR-AC1210
+Ralink RT2860
+Ralink RT2880
+Ralink RT3050
+Ralink RT3052
+Ralink RT3352
+Ralink RT3883
+Ralink RT5350
+Ralink RT5370
+Ralink RT5572
+Ralink RT5592
+Realtek RTL8188
+Realtek RTL8192
+Realtek RTL8196
+Realtek RTL8196C
+Realtek RTL8196D
+Realtek RTL8196E
+Realtek RTL8197D
+Realtek RTL8xxx
+RTL8196E
+RTL8xxx EV-2009-02-06
+RTL8xxx EV-2010-09-20
+RTL8xxx RTK_ECOS
+Broadcom BCM4313
+Broadcom BCM4322
+Broadcom BCM43224
+Broadcom BCM43225
+Broadcom BCM43227
+Broadcom BCM43228
+Broadcom BCM43236
+Broadcom BCM43237
+Broadcom BCM43238
+Broadcom BCM4331
+Broadcom BCM4352
+Broadcom BCM4360
+Broadcom BCM43602
+Broadcom BCM4366
+Broadcom BCM4706
+Broadcom BCM4708
+Broadcom BCM4709
+Broadcom BCM4710
+Broadcom BCM4712
+Broadcom BCM4716
+Broadcom BCM4717
+Broadcom BCM4718
+Broadcom BCM4748
+Broadcom BCM4785
+Broadcom BCM47186
+Broadcom BCM5300
+Broadcom BCM5350
+Broadcom BCM5352
+Broadcom BCM5354
+Broadcom BCM5356
+Broadcom BCM5357
+Broadcom BCM5358
+Broadcom BCM6368
+Broadcom BCM6328
+Broadcom BCM6358
+MediaTek MT7620
+MediaTek MT7621
+MediaTek MT7628
+MediaTek MT7688
+MediaTek MT7610
+MediaTek MT7612
+MediaTek MT7615
+MediaTek MT7915
+Atheros AR7240
+Atheros AR7241
+Atheros AR7242
+Atheros AR9331
+Atheros AR9341
+Atheros AR9344
+Atheros AR9531
+Atheros AR9565
+Atheros QCA9531
+Atheros QCA9558
+Atheros QCA9563
+Atheros QCA9880
+Atheros QCA9887
+Atheros QCA9980
+Atheros QCA9984
+RT-G32 1234
+Sitecom Wireless Router 300N X2 300N
+Smart Router R3 RT2860
+Tenda 123456
+Tenda AC5 1.0
+Tenda AC5 2.0
+Tenda AC5 3.0
+Tenda AC5 V4
+Tenda AC5 V5
+Tenda AC5 V6
+Tenda AC5 Pro 1.0
+Tenda AC5 Pro 2.0
+Tenda AC5V3 1.0
+Tenda AC5V3 3.0
+Tenda AC6 1.0
+Tenda AC6 3.0
+Tenda AC6 v2
+Tenda AC6 v4
+Tenda AC6 V5
+Tenda AC6 V6
+Tenda AC6 Pro 1.0
+Tenda AC6 Pro 2.0
+Tenda AC6 Pro V3
+Tenda AC6V2 1.0
+Tenda AC6V2 3.0
+Tenda AC6V3 1.0
+Tenda AC6V3 3.0
+Tenda AC7 1.0
+Tenda AC7 3.0
+Tenda AC7 v2
+Tenda AC7 V4
+Tenda AC7 V5
+Tenda AC7 Pro 1.0
+Tenda AC7 Pro 2.0
+Tenda AC7 Pro V3
+Tenda AC8 1.0
+Tenda AC8 3.0
+Tenda AC8 v2
+Tenda AC8 V4
+Tenda AC8 V5
+Tenda AC8 Pro 1.0
+Tenda AC8 Pro 2.0
+Tenda AC8 Pro V3
+Tenda AC9 1.0
+Tenda AC9 3.0
+Tenda AC9 v2
+Tenda AC9 V4
+Tenda AC9 V5
+Tenda AC9 Pro 1.0
+Tenda AC9 Pro 2.0
+Tenda AC9 Pro V3
+Tenda AC10 1.0
+Tenda AC10 3.0
+Tenda AC10 v4
+Tenda AC10 V5
+Tenda AC10 V6
+Tenda AC10 Pro 1.0
+Tenda AC10 Pro 2.0
+Tenda AC10 Pro V3
+Tenda AC10U 1.0
+Tenda AC10U 3.0
+Tenda AC10U v2
+Tenda AC10U V4
+Tenda AC10U V5
+Tenda AC10U Pro 1.0
+Tenda AC10V2 1.0
+Tenda AC10V2 3.0
+Tenda AC10V3 1.0
+Tenda AC10V3 3.0
+Tenda AC10V4 1.0
+Tenda AC10V4 3.0
+Tenda AC11 1.0
+Tenda AC11 3.0
+Tenda AC11 v2
+Tenda AC11 V4
+Tenda AC11 V5
+Tenda AC11 Pro 1.0
+Tenda AC11 Pro V2
+Tenda AC12 1.0
+Tenda AC12 3.0
+Tenda AC12 v2
+Tenda AC12 V4
+Tenda AC12 V5
+Tenda AC12 Pro 1.0
+Tenda AC12 Pro V2
+Tenda AC15 1.0
+Tenda AC15 3.0
+Tenda AC15 v2
+Tenda AC15 V4
+Tenda AC15 V5
+Tenda AC15 Pro 1.0
+Tenda AC15 Pro 2.0
+Tenda AC15 Pro V3
+Tenda AC15V2 1.0
+Tenda AC15V2 3.0
+Tenda AC18 1.0
+Tenda AC18 3.0
+Tenda AC18 v2
+Tenda AC18 V4
+Tenda AC18 V5
+Tenda AC18 Pro 1.0
+Tenda AC18 Pro 2.0
+Tenda AC18 Pro V3
+Tenda AC19 1.0
+Tenda AC19 3.0
+Tenda AC19 v2
+Tenda AC19 V4
+Tenda AC19 V5
+Tenda AC19 Pro 1.0
+Tenda AC19 Pro V2
+Tenda AC21 1.0
+Tenda AC21 3.0
+Tenda AC21 v2
+Tenda AC21 V4
+Tenda AC21 V5
+Tenda AC21 Pro 1.0
+Tenda AC21 Pro V2
+Tenda AC23 1.0
+Tenda AC23 3.0
+Tenda AC23 v2
+Tenda AC23 v3
+Tenda AC23 V4
+Tenda AC23 V5
+Tenda AC23 Pro 1.0
+Tenda AC23 Pro V2
+Tenda AC23 Pro V3
+Tenda F3 1.0
+Tenda F3 3.0
+Tenda F3 V1 1.0
+Tenda F3 V3 1.0
+Tenda F3 V4
+Tenda F3 V5
+Tenda F6 1.0
+Tenda F6 3.0
+Tenda F6 V1 1.0
+Tenda F6 V3 1.0
+Tenda F6 V4
+Tenda F6 V5
+Tenda F9 1.0
+Tenda F9 3.0
+Tenda F9 V1 1.0
+Tenda F9 V3 1.0
+Tenda F9 V4
+Tenda F9 V5
+Tenda N3 1.0
+Tenda N3 3.0
+Tenda N3 V1 1.0
+Tenda N3 V3 1.0
+Tenda N3 V4
+Tenda N3 V5
+Tenda N4 1.0
+Tenda N4 3.0
+Tenda N4 V1 1.0
+Tenda N4 V3 1.0
+Tenda N4 V4
+Tenda N4 V5
+Tenda N6 1.0
+Tenda N6 3.0
+Tenda N6 V1 1.0
+Tenda N6 V3 1.0
+Tenda N6 V4
+Tenda N6 V5
+Tenda N8 1.0
+Tenda N8 3.0
+Tenda N8 V1 1.0
+Tenda N8 V3 1.0
+Tenda N8 V4
+Tenda N8 V5
+Tenda N10 1.0
+Tenda N10 3.0
+Tenda N10 V1 1.0
+Tenda N10 V3 1.0
+Tenda N10 V4
+Tenda N10 V5
+Tenda N30 1.0
+Tenda N30 3.0
+Tenda N30 V1 1.0
+Tenda N30 V3 1.0
+Tenda N30 V4
+Tenda N30 V5
+Tenda N60 1.0
+Tenda N60 3.0
+Tenda N60 V1 1.0
+Tenda N60 V3 1.0
+Tenda N60 V4
+Tenda N60 V5
+Tenda N80 1.0
+Tenda N80 3.0
+Tenda N80 V1 1.0
+Tenda N80 V3 1.0
+Tenda N80 V4
+Tenda N80 V5
+Tenda N300 1.0
+Tenda N300 3.0
+Tenda N300 V1 1.0
+Tenda N300 V3 1.0
+Tenda N300 V4
+Tenda N300 V5
+Tenda N301 1.0
+Tenda N301 3.0
+Tenda N301 V1 1.0
+Tenda N301 V3 1.0
+Tenda N301 V4
+Tenda N301 V5
+Tenda W1 1.0
+Tenda W1 3.0
+Tenda W1 V1 1.0
+Tenda W1 V3 1.0
+Tenda W1 V4
+Tenda W1 V5
+Tenda W3 1.0
+Tenda W3 3.0
+Tenda W3 V1 1.0
+Tenda W3 V3 1.0
+Tenda W3 V4
+Tenda W3 V5
+Tenda W6 1.0
+Tenda W6 3.0
+Tenda W6 V1 1.0
+Tenda W6 V3 1.0
+Tenda W6 V4
+Tenda W6 V5
+Tenda W9 1.0
+Tenda W9 2.0
+Tenda W9 3.0
+Tenda W9 V1 1.0
+Tenda W9 V2 1.0
+Tenda W9 V3 1.0
+Tenda W9 V4
+Tenda W9 V5
+Tenda W9 Pro 1.0
+Tenda W9 Pro V2
+Tenda W15E 1.0
+Tenda W15E 3.0
+Tenda W15E V1 1.0
+Tenda W15E V3 1.0
+Tenda W15E V4
+Tenda W15E V5
+Tenda W20E 1.0
+Tenda W20E 3.0
+Tenda W20E V1 1.0
+Tenda W20E V3 1.0
+Tenda W20E V4
+Tenda W20E V5
+Tenda W30E 1.0
+Tenda W30E 3.0
+Tenda W30E V1 1.0
+Tenda W30E V3 1.0
+Tenda W30E V4
+Tenda W30E V5
+Tenda W300D 1.0
+Tenda W300D 3.0
+Tenda W300D V1 1.0
+Tenda W300D V3 1.0
+Tenda W300D V4
+Tenda W300D V5
+Tenda W303R 1.0
+Tenda W303R 3.0
+Tenda W303R V1 1.0
+Tenda W303R V3 1.0
+Tenda W303R V4
+Tenda W303R V5
+Tenda W308R 1.0
+Tenda W308R 3.0
+Tenda W308R V1 1.0
+Tenda W308R V3 1.0
+Tenda W308R V4
+Tenda W308R V5
+Tenda W309R 1.0
+Tenda W309R 3.0
+Tenda W309R V1 1.0
+Tenda W309R V3 1.0
+Tenda W309R V4
+Tenda W309R V5
+Tenda W311R 1.0
+Tenda W311R 3.0
+Tenda W311R V1 1.0
+Tenda W311R V3 1.0
+Tenda W311R V4
+Tenda W311R V5
+Tenda W316R 1.0
+Tenda W316R 3.0
+Tenda W316R V1 1.0
+Tenda W316R V3 1.0
+Tenda W316R V4
+Tenda W316R V5
+Tenda W322U 1.0
+Tenda W322U 3.0
+Tenda W322U V1 1.0
+Tenda W322U V3 1.0
+Tenda W322U V4
+Tenda W322U V5
+Tenda W368R 1.0
+Tenda W368R 3.0
+Tenda W368R V1 1.0
+Tenda W368R V3 1.0
+Tenda W368R V4
+Tenda W368R V5
+Tenda W548D 1.0
+Tenda W548D 3.0
+Tenda W548D V1 1.0
+Tenda W548D V3 1.0
+Tenda W548D V4
+Tenda W548D V5
+Tenda W560R 1.0
+Tenda W560R 3.0
+Tenda W560R V1 1.0
+Tenda W560R V3 1.0
+Tenda W560R V4
+Tenda W560R V5
+Tenda W568R 1.0
+Tenda W568R 3.0
+Tenda W568R V1 1.0
+Tenda W568R V3 1.0
+Tenda W568R V4
+Tenda W568R V5
+Tenda W150M 1.0
+Tenda W150M 3.0
+Tenda W150M V1 1.0
+Tenda W150M V3 1.0
+Tenda W150M V4
+Tenda W150M V5
+Tenda W150D 1.0
+Tenda W150D 3.0
+Tenda W150D V1 1.0
+Tenda W150D V3 1.0
+Tenda W150D V4
+Tenda W150D V5
+Tenda TX2L 1.0
+Tenda TX2L Pro 1.0
+Tenda TX2L Pro 2.0
+Tenda TX3 1.0
+Tenda TX3 2.0
+Tenda TX3 V3
+Tenda TX3 V4
+Tenda TX9 1.0
+Tenda TX9 2.0
+Tenda TX9 V3
+Tenda TX9 V4
+Tenda TX9 Pro 1.0
+Tenda TX9 Pro 2.0
+Tenda TX9 Pro V3
+Tenda TX9 Pro V4
+Tenda TX12 Pro 1.0
+Tenda TX12 Pro 2.0
+Tenda TX12 Pro V3
+Tenda TX12 Pro V4
+Tenda RX2L 1.0
+Tenda RX2 Pro 1.0
+Tenda RX2 Pro 2.0
+Tenda RX2 Pro V3
+Tenda RX2 Pro V4
+Tenda RX3 1.0
+Tenda RX3 2.0
+Tenda RX3 V3
+Tenda RX3 V4
+Tenda RX9 1.0
+Tenda RX9 V3
+Tenda RX9 V4
+Tenda RX9 Pro 1.0
+Tenda RX9 Pro 2.0
+Tenda RX9 Pro V3
+Tenda RX9 Pro V4
+Tenda AX2 1.0
+Tenda AX2 Pro 1.0
+Tenda AX2 Pro V2
+Tenda AX3 1.0
+Tenda AX3 2.0
+Tenda AX3 V3
+Tenda AX3 V4
+Tenda AX3 Pro 1.0
+Tenda AX3 Pro 2.0
+Tenda AX3 Pro 3.0
+Tenda AX3 Pro V4
+Tenda AX9 1.0
+Tenda AX9 V2
+Tenda AX9 V3
+Tenda AX9 Pro 1.0
+Tenda AX9 Pro V2
+Tenda AX12 1.0
+Tenda AX12 V3
+Tenda AX12 V4
+Tenda AX12 Pro 1.0
+Tenda AX12 Pro 2.0
+Tenda AX12 Pro V3
+Tenda AX1500 1.0
+Tenda AX1500 V2
+Tenda AX1500 V3
+Tenda AX1500 Pro 1.0
+Tenda AX1500 Pro V2
+Tenda AX1800 1.0
+Tenda AX1800 V2
+Tenda AX1800 V3
+Tenda AX1800 Pro 1.0
+Tenda AX1800 Pro V2
+Tenda AX1803 1.0
+Tenda AX1803 V2
+Tenda AX1803 V3
+Tenda AX1803 Pro 1.0
+Tenda AX1803 Pro V2
+Tenda AX3000 1.0
+Tenda AX3000 V3
+Tenda AX3000 V4
+Tenda AX3000 Pro 1.0
+Tenda AX3000 Pro 2.0
+Tenda AX3000 Pro V3
+Tenda AX5400 1.0
+Tenda AX5400 V3
+Tenda AX5400 V4
+Tenda AX5400 Pro 1.0
+Tenda AX5400 Pro 2.0
+Tenda AX5400 Pro V3
+Tenda AXE5700 1.0
+Tenda BE6 1.0
+Tenda BE6 Pro
+Tenda BE6L Pro 1.0
+Tenda BE12 1.0
+Tenda BE12 Pro 1.0
+Tenda BE12 Pro 2.0
+Tenda BE12 Pro V3
+Tenda BE24 1.0
+Tenda BE36 1.0
+Tenda BE50 1.0
+Tenda BE5100 1.0
+Tenda BE5100 Pro 1.0
+Tenda BE5100 Pro V2
+Tenda BE6500 1.0
+Tenda BE6500 Pro
+Tenda BE7200 1.0
+Tenda BE7200 Pro
+Tenda EP3 1.0
+Tenda EP3 2.0
+Tenda EP3 V3
+Tenda EP3 V4
+Tenda EP3 Pro 1.0
+Tenda EP3 Pro 2.0
+Tenda EP3 Pro V3
+Tenda EP3 Pro V4
+Tenda MW5 1.0
+Tenda MW5G 1.0
+Tenda MW5s 1.0
+Tenda MW6 1.0
+Tenda MW6 2.0
+Tenda MW12 1.0
+Tenda MX3 2.0
+Tenda MX6 1.0
+Tenda MX12 2.0
+Tenda Nova MW3 1.0
+Tenda Nova MW3 V2 1.0
+Tenda Nova MW3 V4
+Tenda Nova MW3 V5
+Tenda Nova MW5 1.0
+Tenda Nova MW5 V2 1.0
+Tenda Nova MW5 V3
+Tenda Nova MW5 V4
+Tenda Nova MW5G 1.0
+Tenda Nova MW5G V2 1.0
+Tenda Nova MW5G V3
+Tenda Nova MW5G V4
+Tenda Nova MW5s 1.0
+Tenda Nova MW5s V2 1.0
+Tenda Nova MW5s V3
+Tenda Nova MW5s V4
+Tenda Nova MW6 1.0
+Tenda Nova MW6 2.0
+Tenda Nova MW6 V3 1.0
+Tenda Nova MW6 V4
+Tenda Nova MW6 V5
+Tenda Nova MW12 1.0
+Tenda Nova MW12 V2 1.0
+Tenda Nova MW12 V3
+Tenda Nova MW12 V4
+Tenda Nova MX3 1.0
+Tenda Nova MX3 V3 1.0
+Tenda Nova MX3 V4
+Tenda Nova MX3 V5
+Tenda Nova MX6 V2 1.0
+Tenda Nova MX6 V3
+Tenda Nova MX6 V4
+Tenda Nova MX12 1.0
+Tenda Nova MX12 V3 1.0
+Tenda Nova MX12 V4
+Tenda Nova MX12 V5
+Tenda Nova MX15 Pro 1.0
+Tenda Nova MX15 Pro V2
+Tenda Nova MX15 Pro V3
+Tenda Nova MX21 Pro 1.0
+Tenda Nova MX21 Pro V2
+Tenda Nova MX21 Pro V3
+Tenda O1
+Tenda O2
+Tenda O3 1.0
+Tenda O3 V2
+Tenda O3 Pro
+Tenda O5
+Tenda O5 Pro
+Tenda O6
+Tenda O6 Pro
+Tenda O8
+Tenda O8 Pro
+Tenda O9
+Tenda O9 Pro
+Tenda i9
+Tenda i12
+Tenda i24
+Tenda i27
+Tenda i29
+Tenda W6-S 1.0
+Tenda W6-S 2.0
+Tenda W6-S V3
+Timo RA300R4 Timo RA300R4
+TD-W8151N RT2860
+TD-W8901N RT2860
+TD-W8951ND RT2860
+TD-W9960 1.0
+TD-W9960 1.20
+TD-W9960v 1.0
+TD-W8968 2.0
+TL-MR100 1.0
+TL-MR3020 3.0
+TL-MR3420 5.0
+TL-MR6400 3.0
+TL-MR6400 4.0
+TL-WA855RE 4.0
+TL-WR840N 4.0
+TL-WR840N 5.0
+TL-WR840N 6.0
+TL-WR840N V7
+TL-WR841N 13.0
+TL-WR841N 14.0
+TL-WR841N V15
+TL-WR841N V16
+TL-WR841HP 5.0
+TL-WR841HP V6
+TL-WR842N 5.0
+TL-WR842N V6
+TL-WR845N 3.0
+TL-WR845N 4.0
+TL-WR845N V5
+TL-WR850N 1.0
+TL-WR850N 2.0
+TL-WR850N 3.0
+TL-WR850N V4
+TL-WR940N V7
+TL-WR941ND V7
+TL-WR1042N EV-2010-09-20
+TL-WR1043ND V7
+TL-WR2543ND V6
+TL-WDR3500 V4
+TL-WDR3600 V4
+TL-WDR4300 V4
+TL-WDR4900 V4
+TL-WDR7500 V4
+TL-WR902AC V4
+TL-WR802N V4
+TL-WR820N V4
+TL-WR855RE V6
+TL-MR3020 V4
+TL-MR3040 V3
+TL-MR3220 V3
+TL-MR3420 V6
+TL-MR6400 V6
+TL-WA701ND V3
+TL-WA801ND V6
+TL-WA830RE V3
+TL-WA850RE V6
+TL-WA855RE V5
+TL-WA860RE V4
+TL-WA901ND V6
+TP-Link Archer AX10 V4
+TP-Link Archer AX12 V3
+TP-Link Archer AX20 V3
+TP-Link Archer AX21 V3
+TP-Link Archer AX23 V3
+TP-Link Archer AX50 V3
+TP-Link Archer AX55 V3
+TP-Link Archer AX73 V3
+TP-Link Archer AX90 V3
+TP-Link Archer AX11000 V3
+TP-Link Archer AX1500 V3
+TP-Link Archer AX1800 V3
+TP-Link Archer AX3000 V3
+TP-Link Archer AX6000 V3
+TP-Link Archer AXE75 V3
+TP-Link Archer AXE95 V3
+TP-Link Archer AXE300 V3
+TP-Link Archer C6 V4
+TP-Link Archer C6U V4
+TP-Link Archer C7 V6
+TP-Link Archer C20 V7
+TP-Link Archer C20i V4
+TP-Link Archer C50 V7
+TP-Link Archer C58 V3
+TP-Link Archer C59 V3
+TP-Link Archer C60 V4
+TP-Link Archer C80 V4
+TP-Link Deco E4 V4
+TP-Link Deco M4 V3
+TP-Link Deco M5 V3
+TP-Link Deco M9 V2
+TP-Link Deco P7 V2
+TP-Link Deco P9 V2
+TP-Link Deco X20 V3
+TP-Link Deco X50 V3
+TP-Link Deco X55 V3
+TP-Link Deco X60 V3
+TP-Link Deco X68 V3
+TP-Link Deco X90 V3
+TP-Link Deco XE75 V3
+TP-Link Deco S4 V3
+TP-Link Deco S7 V2
+TP-Link Deco M3 V2
+TP-Link Deco M3W V2
+TP-Link Deco W2400 V2
+TP-Link Deco W3600 V2
+TP-Link Deco W6000 V2
+TP-Link Deco X10 V3
+TP-Link Deco X25 V3
+TP-Link Deco X30 V3
+TP-Link Deco X35 V2
+TP-Link Deco X40 V3
+TP-Link Deco X43 V2
+TP-Link Deco X70 V3
+TP-Link Deco X73 V2
+TP-Link Deco X80 V3
+TP-Link Deco X95 V4
+TP-Link Deco X4300 V2
+TP-Link Deco X5700 V2
+TP-Link Deco XE5300 V2
+TP-Link Deco XE75 Pro V2
+TP-Link Deco XE200 V2
+TP-Link Deco BE25 V2
+TP-Link Deco BE65 V2
+TP-Link Deco BE85 V2
+TP-Link Deco BE95 V2
+TP-Link Deco BE11000 V2
+TP-Link RE200 V6
+TP-Link RE220 V5
+TP-Link RE300 V5
+TP-Link RE305 V5
+TP-Link RE330 V3
+TP-Link RE350 V3
+TP-Link RE365 V3
+TP-Link RE450 V6
+TP-Link RE455 V3
+TP-Link RE500 V4
+TP-Link RE505X V3
+TP-Link RE550 V3
+TP-Link RE600X V3
+TP-Link RE603X V3
+TP-Link RE605X V3
+TP-Link RE650 V5
+TP-Link RE700X V3
+TP-Link RE705X V3
+TP-Link RE815X V3
+TP-Link RE900XD V3
+TOTOLINK N150RT 1.0
+TOTOLINK N150RT 2.0
+TOTOLINK N150RT V3
+TOTOLINK N200RE 1.0
+TOTOLINK N200RE 2.0
+TOTOLINK N200RE V3
+TOTOLINK N300RT 1.0
+TOTOLINK N300RT 2.0
+TOTOLINK N300RT V3
+TOTOLINK N350RT 1.0
+TOTOLINK N350RT 2.0
+TOTOLINK N350RT V3
+TOTOLINK N600R
+TOTOLINK N600R v4.3.0cu.7866_B20220506
+TOTOLINK T6
+TOTOLINK T6 4.1.5cu.748_B20211015
+TOTOLINK T8
+TOTOLINK T10
+TOTOLINK A700R
+TOTOLINK A720R 1.0
+TOTOLINK A720R V2
+TOTOLINK A2000UA 1.0
+TOTOLINK A2000UA 2.0
+TOTOLINK A2000UA V3
+TOTOLINK A2004NS 1.0
+TOTOLINK A3000RU 1.0
+TOTOLINK A3000RU 2.0
+TOTOLINK A3000RU V3
+TOTOLINK A3002MU 1.0
+TOTOLINK A3002MU 2.0
+TOTOLINK A3002MU V3
+TOTOLINK A3002RU 1.0
+TOTOLINK A3002RU 2.0
+TOTOLINK A3002RU V3
+TOTOLINK A3004NS 1.0
+TOTOLINK A5004NS 1.0
+TOTOLINK A5004NS 2.0
+TOTOLINK A5004NS V3
+TOTOLINK A6000R 1.0
+TOTOLINK A6000R 2.0
+TOTOLINK A6000R V3
+TOTOLINK A6004NS 1.0
+TOTOLINK A6004NS 2.0
+TOTOLINK A6004NS V3
+TOTOLINK A7000R 1.0
+TOTOLINK A7000R 2.0
+TOTOLINK A7000R 3.0
+TOTOLINK A7000R V4
+TOTOLINK A7004NS 1.0
+TOTOLINK A7100RU 1.0
+TOTOLINK A800R 1.0
+TOTOLINK A800R 2.0
+TOTOLINK A800R V3
+TOTOLINK A8000RU 1.0
+TOTOLINK A8000RU 2.0
+TOTOLINK A8000RU V3
+TOTOLINK A8004NS 1.0
+TOTOLINK A9004NS 1.0
+TOTOLINK A950RG 1.0
+TOTOLINK A950RG 2.0
+TOTOLINK A950RG V3
+TOTOLINK A1004NS 1.0
+TOTOLINK X18 1.0
+TOTOLINK X18 2.0
+TOTOLINK X18 3.0
+TOTOLINK X18 V4
+TOTOLINK X21 1.0
+TOTOLINK X21 2.0
+TOTOLINK X21 3.0
+TOTOLINK X21 V4
+TOTOLINK X2000R 1.0
+TOTOLINK X2000R 2.0
+TOTOLINK X2000R 3.0
+TOTOLINK X2000R V4
+TOTOLINK X5000R 1.0
+TOTOLINK X5000R 2.0
+TOTOLINK X5000R 3.0
+TOTOLINK X5000R V4
+TOTOLINK X6000R 1.0
+TOTOLINK X6000R 2.0
+TOTOLINK X6000R 3.0
+TOTOLINK X6000R V4
+TOTOLINK LR350 1.0
+TOTOLINK LR350 2.0
+TOTOLINK LR350 3.0
+TOTOLINK LR350 V4
+TOTOLINK LR1200 1.0
+TOTOLINK LR1200 2.0
+TOTOLINK LR1200 3.0
+TOTOLINK LR1200 V4
+TOTOLINK NR1800X 1.0
+TOTOLINK NR1800X 2.0
+TOTOLINK NR1800X 3.0
+TOTOLINK NR1800X V4
+TOTOLINK EX200 1.0
+TOTOLINK EX200 2.0
+TOTOLINK EX200 V3
+TOTOLINK EX300 1.0
+TOTOLINK EX300 2.0
+TOTOLINK EX300 V3
+TOTOLINK EX750 1.0
+TOTOLINK EX750 2.0
+TOTOLINK EX750 V3
+TOTOLINK EX1200 1.0
+TOTOLINK EX1200 2.0
+TOTOLINK EX1200 V3
+TOTOLINK EX2000 1.0
+TOTOLINK EX2000 2.0
+TOTOLINK EX2000 V3
+TOTOLINK EX3000 1.0
+TOTOLINK EX3000 2.0
+TOTOLINK EX3000 V3
+Trendnet TEW-625br
+Trendnet TEW-632BRP 1.0
+Trendnet TEW-651br
+Trendnet TEW-652BRP 1.0
+Trendnet TEW-673GRU 1.0
+Trendnet TEW-691GR 1.0
+Trendnet TEW-692GR 1.0
+Trendnet TEW-712BR 1.0
+Trendnet TEW-731BR 1.0
+Trendnet TEW-733GR 1.0
+Trendnet TEW-811DRU 1.0
+Trendnet TEW-812DRU 1.0
+Trendnet TEW-813DRU 1.0
+Trendnet TEW-818DRU 1.0
+Trendnet TEW-823DRU 1.0
+VMG3312-T20A RT2860
+VMG8623-T50A RT2860
+WAP300N WAP300N
+WAP3205 WAP3205
+Wi-Fi Protected Setup Router RT-AC1200G+
+Wi-Fi Protected Setup Router RT-AX55
+Wi-Fi Protected Setup Router RT-N10U
+Wi-Fi Protected Setup Router RT-N12
+Wi-Fi Protected Setup Router RT-N12D1
+Wi-Fi Protected Setup Router RT-N12VP
+Wireless Access Point .
+Wireless Router 123456
+Wireless Router RTL8xxx EV-2009-02-06
+Wireless Router Wireless Router
+Wireless WPS Router <#ZVMODELVZ#>
+Wireless WPS Router RT-N10E
+Wireless WPS Router RT-N10LX
+Wireless WPS Router RT-N12E
+Wireless WPS Router RT-N12LX
+WN3000RP V3
+WN-200R WN-200R
+WPS Router (5G) RT-N65U
+WPS Router DSL-AC51
+WPS Router DSL-AC52U
+WPS Router DSL-AC55U
+WPS Router DSL-N14U-B1
+WPS Router DSL-N16
+WPS Router DSL-N17U
+WPS Router RT-AC51
+WPS Router RT-AC51U
+WPS Router RT-AC52U
+WPS Router RT-AC52U_B1
+WPS Router RT-AC53
+WPS Router RT-AC57U
+WPS Router RT-AC65P
+WPS Router RT-AC85P
+WPS Router RT-AC750
+WPS Router RT-AC750L
+WPS Router RT-AC1200
+WPS Router RT-AC1200_V2
+WPS Router RT-AC1750
+WPS Router RT-AC1750U
+WPS Router RT-N11P
+WPS Router RT-N12 VP
+WPS Router RT-N12+
+WPS Router RT-N12E
+WPS Router RT-N12E_B1
+WPS Router RT-N14U
+WPS Router RT-N56U
+WPS Router RT-N56UB1
+WPS Router RT-N65U
+WPS Router RT-N300
+WR5570 2011-05-13
+Xiaomi Mi Router 3 v1
+Xiaomi Mi Router 3 V2 1.0
+Xiaomi Mi Router 3 V3
+Xiaomi Mi Router 3C v1
+Xiaomi Mi Router 3C V2 1.0
+Xiaomi Mi Router 3C V3
+Xiaomi Mi Router 3G v1
+Xiaomi Mi Router 3G v2
+Xiaomi Mi Router 3G V3 1.0
+Xiaomi Mi Router 3G V4 1.0
+Xiaomi Mi Router 3G V5
+Xiaomi Mi Router 4 v1
+Xiaomi Mi Router 4 V2 1.0
+Xiaomi Mi Router 4 V3
+Xiaomi Mi Router 4A v1
+Xiaomi Mi Router 4A V2 1.0
+Xiaomi Mi Router 4A V3
+Xiaomi Mi Router 4A 100M 1.0
+Xiaomi Mi Router 4A 100M V2 1.0
+Xiaomi Mi Router 4A 100M V3
+Xiaomi Mi Router 4A Gigabit v1
+Xiaomi Mi Router 4A Gigabit v2
+Xiaomi Mi Router 4A Gigabit 3.0
+Xiaomi Mi Router 4A Gigabit V4 1.0
+Xiaomi Mi Router 4A Gigabit V5 1.0
+Xiaomi Mi Router 4A Gigabit V6 1.0
+Xiaomi Mi Router 4A Gigabit V7
+Xiaomi Mi Router 4C v1
+Xiaomi Mi Router 4C 2.0
+Xiaomi Mi Router 4C V3 1.0
+Xiaomi Mi Router 4C V4 1.0
+Xiaomi Mi Router 4C V5
+Xiaomi Mi Router 4 Pro v1
+Xiaomi Mi Router 4 Pro 2.0
+Xiaomi Mi Router 4 Pro V3 1.0
+Xiaomi Mi Router 4 Pro V4 1.0
+Xiaomi Mi Router 4 Pro V5
+Xiaomi Mi Router 4Q v1
+Xiaomi Mi Router 4Q V2 1.0
+Xiaomi Mi Router 4Q V3
+Xiaomi Mi Router 5 v1
+Xiaomi Mi Router 5 V2 1.0
+Xiaomi Mi Router 5 V3
+Xiaomi Mi Router AX1800 v1
+Xiaomi Mi Router AX1800 2.0
+Xiaomi Mi Router AX1800 V3 1.0
+Xiaomi Mi Router AX1800 V4 1.0
+Xiaomi Mi Router AX1800 V5
+Xiaomi Mi Router AX3000 v1
+Xiaomi Mi Router AX3000 V2 1.0
+Xiaomi Mi Router AX3000 V3
+Xiaomi Mi Router AX3200 v1
+Xiaomi Mi Router AX3200 V2 1.0
+Xiaomi Mi Router AX3200 V3
+Xiaomi Mi Router AX3600 v1
+Xiaomi Mi Router AX3600 2.0
+Xiaomi Mi Router AX3600 V3 1.0
+Xiaomi Mi Router AX3600 V4 1.0
+Xiaomi Mi Router AX3600 V5
+Xiaomi Mi Router AX6000 v1
+Xiaomi Mi Router AX6000 v2
+Xiaomi Mi Router AX6000 3.0
+Xiaomi Mi Router AX6000 V4 1.0
+Xiaomi Mi Router AX6000 V5 1.0
+Xiaomi Mi Router AX6000 V6 1.0
+Xiaomi Mi Router AX6000 V7
+Xiaomi Mi Router AX9000 v1
+Xiaomi Mi Router AX9000 v2
+Xiaomi Mi Router AX9000 3.0
+Xiaomi Mi Router AX9000 V4 1.0
+Xiaomi Mi Router AX9000 V5 1.0
+Xiaomi Mi Router AX9000 V6
+Xiaomi Mi AX1800 2.0
+Xiaomi Mi AX1800 V4 1.0
+Xiaomi Mi AX3600 2.0
+Xiaomi Mi AX3600 V4 1.0
+Xiaomi Mi AX6000 3.0
+Xiaomi Mi AX6000 V6 1.0
+Xiaomi Mi AX9000 3.0
+Xiaomi Mi AX9000 V6 1.0
+Xiaomi Mi WiFi Repeater Pro 1.0
+Xiaomi Mi WiFi Repeater Pro V2 1.0
+Xiaomi Mi WiFi Repeater Pro V3
+Xiaomi Mi WiFi Repeater 2 1.0
+Xiaomi Mi WiFi Repeater 2 V2 1.0
+Xiaomi Mi WiFi Repeater 2 V3
+Xiaomi Mi WiFi Range Extender AC1200 1.0
+Xiaomi Mi WiFi Range Extender AC1200 V2 1.0
+Xiaomi Mi WiFi Range Extender AC1200 V3
+Xiaomi Mi WiFi Range Extender Pro 1.0
+Xiaomi Mi WiFi Range Extender Pro V2 1.0
+Xiaomi Mi WiFi Range Extender Pro V3
+Xiaomi Mi WiFi Router AC1200 1.0
+Xiaomi Mi WiFi Router AC1200 V2 1.0
+Xiaomi Mi WiFi Router AC1200 V3
+Xiaomi Mi WiFi Router AC2100 1.0
+Xiaomi Mi WiFi Router AC2100 V2 1.0
+Xiaomi Mi WiFi Router AC2100 V3
+Xiaomi Mi WiFi Router AX1500 1.0
+Xiaomi Mi WiFi Router AX1500 V2 1.0
+Xiaomi Mi WiFi Router AX1500 V3
+Xiaomi Mi WiFi Router AX3000 1.0
+Xiaomi Mi WiFi Router AX3000 V2 1.0
+Xiaomi Mi WiFi Router AX3000 V3
+Xiaomi Mi WiFi Router Pro R3P
+Xiaomi Redmi Router AC2100 v1
+Xiaomi Redmi Router AC2100 V2 1.0
+Xiaomi Redmi Router AC2100 V3
+Xiaomi Redmi Router AX5 v1
+Xiaomi Redmi Router AX5 V2 1.0
+Xiaomi Redmi Router AX5 V3
+Xiaomi Redmi Router AX6 v1
+Xiaomi Redmi Router AX6 V2 1.0
+Xiaomi Redmi Router AX6 V3
+Xiaomi Redmi Router AX6S v1
+Xiaomi Redmi Router AX6S V2 1.0
+Xiaomi Redmi Router AX6S V3
+Xiaomi Redmi Router AX5400 v1
+Xiaomi Redmi Router AX5400 2.0
+Xiaomi Redmi Router AX5400 V3 1.0
+Xiaomi Redmi Router AX5400 V4 1.0
+Xiaomi Redmi Router AX5400 V5
+Xiaomi Redmi Router AX6000 v1
+Xiaomi Redmi Router AX6000 2.0
+Xiaomi Redmi Router AX6000 V3 1.0
+Xiaomi Redmi Router AX6000 V4 1.0
+Xiaomi Redmi Router AX6000 V5
+Xiaomi Redmi Router AX9000 v1
+Xiaomi Redmi Router AX9000 V2 1.0
+Xiaomi Redmi Router AX9000 V3
+Xiaomi Redmi AX3000 1.0
+Xiaomi Redmi AX3000 V2 1.0
+Xiaomi Redmi AX3000 V3
+ZyXEL NBG-416N AP Router
+ZyXEL NBG-416N AP Router NBG-416N
+ZyXEL NBG-417N
+ZyXEL NBG-418N AP Router
+ZyXEL NBG-418N AP Router NBG-418N
+ZyXEL NBG-419N 1.0
+ZyXEL NBG-460N 1.0
+ZyXEL NBG-4615 1.0
+ZyXEL NBG-5715 1.0
+ZyXEL NBG-6515 1.0
+ZyXEL NBG-6715 1.0
+ZyXEL NBG-318S
+ZyXEL NBG-334W
+ZyXEL P-330W
+ZyXEL P-334WT
+ZyXEL P-660HN 1.0
+ZyXEL P-661HNU 1.0
+ZyXEL P-662H 1.0
+ZyXEL P-663HN 1.0
+ZyXEL P-664HN 1.0
+ZyXEL P-665HN 1.0
+ZyXEL P-666HN 1.0
+ZyXEL P-667HN 1.0
+ZyXEL P-668HN 1.0
+ZyXEL P-669HN 1.0
+ZyXEL Keenetic Start KN-1110
+ZyXEL Keenetic Lite KN-1310
+ZyXEL Keenetic 4G KN-1210
+ZyXEL Keenetic Giga III KN-1010
+ZyXEL Keenetic Extra II
+ZyXEL Keenetic Viva
+Arcadyan VGV7519 RT2860
+Arcadyan VGV7510KW22 RT2860
+Arcadyan VRV9519 RT2860
+Arcadyan ARV7519RW22 RT2860
+SKY SR101 Wireless Router
+SKY SR102 Wireless Router
+SKY Hub SR203
+SKY Q Hub ER115
+Comtrend AR-5381u
+Comtrend AR-5387un
+Comtrend CT-5365
+Comtrend CT-5367
+Comtrend VR-3025u
+Comtrend WAP-5813n
+Comtrend VI-3234u
+Digisol DG-BG4011N v1
+Digisol DG-BG4011N V2 1.0
+Digisol DG-BG4100N v1
+Digisol DG-BG4100N v2
+Digisol DG-BG4100N V3 1.0
+Digisol DG-BG4300N v1
+Digisol DG-BG4300N V2 1.0
+Digisol DG-BR4000N v1
+Digisol DG-BR4000N v2
+Digisol DG-BR4000N V3 1.0
+Digisol DG-BR4000NG v1
+Digisol DG-BR4000NG v2
+Digisol DG-BR4000NG V3 1.0
+Digisol DG-BR4015N v1
+Digisol DG-BR4015N v2
+Digisol DG-BR4015N V3 1.0
+Digisol DG-BR4300N v1
+Digisol DG-BR4300N v2
+Digisol DG-BR4300N V3 1.0
+Digisol DG-BR5400N v1
+Digisol DG-BR5400N v2
+Digisol DG-BR5400N V3 1.0
+Digisol DG-GR1321 v1
+Digisol DG-GR1321 v2
+Digisol DG-GR1321 V3 1.0
+Digisol DG-HR1400 v1
+Digisol DG-HR1400 v2
+Digisol DG-HR1400 V3 1.0
+Digisol DG-HR3400 v1
+Digisol DG-HR3400 v2
+Digisol DG-HR3400 V3 1.0
+Digisol DG-WR3001N v1
+Digisol DG-WR3001N v2
+Digisol DG-WR3001N V3 1.0
+iBall Baton 150M v1
+iBall Baton 150M V2 1.0
+iBall Baton 300M v1
+iBall Baton 300M V2 1.0
+iBall Baton 450M v1
+iBall Baton 450M V2 1.0
+iBall Baton 600M v1
+iBall Baton 600M V2 1.0
+iBall Baton 1200M v1
+iBall Baton 1200M V2 1.0
+iBall Baton iB-WRA150N v1
+iBall Baton iB-WRA150N V3 1.0
+iBall Baton iB-WRA300N v1
+iBall Baton iB-WRA300N V3 1.0
+iBall Baton iB-WRA300N3G v1
+iBall Baton iB-WRA300N3G V3 1.0
+iBall Baton iB-WRB300N v1
+iBall Baton iB-WRB300N V3 1.0
+iBall Baton iB-WRC300N v1
+iBall Baton iB-WRC300N V3 1.0
+iBall Baton iB-WRD300N v1
+iBall Baton iB-WRD300N V3 1.0
+iBall Baton iB-WRD600N v1
+iBall Baton iB-WRD600N V3 1.0
+iBall Baton iB-WRD1200N v1
+iBall Baton iB-WRD1200N V3 1.0
+Beetel 220BX v1
+Beetel 220BX V2 1.0
+Beetel 440T1 v1
+Beetel 440T1 V2 1.0
+Beetel 440TC v1
+Beetel 440TC V2 1.0
+Beetel 450TC1 v1
+Beetel 450TC1 V2 1.0
+Beetel 450TC2 v1
+Beetel 450TC2 V2 1.0
+Beetel 450TC3 v1
+Beetel 450TC3 V2 1.0
+Beetel 450TC4 v1
+Beetel 450TC4 V2 1.0
+Beetel 460T1 v1
+Beetel 460T1 V2 1.0
+Beetel 460T2 v1
+Beetel 460T2 V2 1.0
+Beetel 460T3 v1
+Beetel 460T3 V2 1.0
+Beetel 460T4 v1
+Beetel 460T4 V2 1.0
+Beetel 460TC v1
+Beetel 460TC V2 1.0
+Beetel 7700 v1
+Beetel 7700 V2 1.0
+Beetel 7710 v1
+Beetel 7710 V2 1.0
+Beetel 7720 v1
+Beetel 7720 V2 1.0
+Beetel 7730 v1
+Beetel 7730 V2 1.0
+Beetel 7740 v1
+Beetel 7740 V2 1.0
+Beetel 7750 v1
+Beetel 7750 V2 1.0
+Beetel 7760 v1
+Beetel 7760 V2 1.0
+Beetel 7770 v1
+Beetel 7770 V2 1.0
+Binatone DT 850W v1
+Binatone DT 850W V2 1.0
+Binatone DT 855W v1
+Binatone DT 855W V2 1.0
+Binatone DT 860W v1
+Binatone DT 860W V2 1.0
+Binatone DT 865W v1
+Binatone DT 865W V2 1.0
+Binatone DT 870W v1
+Binatone DT 870W V2 1.0
+Binatone DT 875W v1
+Binatone DT 875W V2 1.0
+Binatone DT 880W v1
+Binatone DT 880W V2 1.0
+Binatone DT 885W v1
+Binatone DT 885W V2 1.0
+Binatone DT 890W v1
+Binatone DT 890W V2 1.0
+Binatone DT 895W v1
+Binatone DT 895W V2 1.0
+3G Router WBR-0001
+LTE3301 WBR-0001
+VN020-F3 1.0
+Buffalo WSR-1800AX4
+Buffalo WSR-1800AX4S
+Buffalo WSR-1800AX4B
+Buffalo WSR-1800AX4KH
+Linksys RE6250
+Linksys RE6300
+Linksys RE6350
+Linksys RE6500
+Linksys RE7000
+Linksys RE9000
+TOTOLINK T6
+TOTOLINK T6 4.1.5cu.748_B20211015
+TOTOLINK N600R
+TOTOLINK N600R v4.3.0cu.7866_B20220506
+Huawei WS318
+Huawei WS318 V100R001C01B022
+Netgear WNR614
+Netgear WNR614 1.1.0.54_1.0.1
+D-Link DIR-822
+D-Link DIR-822 B1
+D-Link DIR-822 202KRb06
+D-Link DWR-932B
+D-Link DWR-M921
+D-Link DWR-M921 1.1.52
+Mercusys AC12G
+Mercusys AC12G V1
+Mercusys AC12G(EU)_V1_200909
+Belkin N900
+Belkin F9K1104v1
+Asus RT-AC1750
+Asus RT-AC1750 B1
+Tenda AC5
+Tenda AC5 15.03.06.47
+Tenda AC6V2.0
+Tenda AC6V2.0 15.03.06.23_multi
+HOT HOTBOX
+HOT HOTBOX 2.1.11
+Ralink RT2860
+Ralink RT2880
+Ralink RT3050
+Ralink RT3052
+Ralink RT3352
+Ralink RT3883
+Ralink RT5350
+Ralink RT5370
+Ralink RT5572
+Ralink RT5592
+Realtek RTL8188
+Realtek RTL8192
+Realtek RTL8196
+Realtek RTL8196C
+Realtek RTL8196D
+Realtek RTL8196E
+Realtek RTL8197D
+Realtek RTL8xxx
+Ralink Wireless Access Point RT2860
+Smart Router R3 RT2860
+ADSL RT2860
+TD-W8151N RT2860
+TD-W8901N RT2860
+TD-W8951ND RT2860
+VMG3312-T20A RT2860
+VMG8623-T50A RT2860
+Huawei Wireless Access Point RT2860
+RTL8196E
+RTL8xxx EV-2009-02-06
+RTL8xxx EV-2010-09-20
+RTL8xxx RTK_ECOS
+Wireless Router RTL8xxx EV-2009-02-06
